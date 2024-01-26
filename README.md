@@ -90,8 +90,6 @@ To contribute to this repository, please create a pull request with any updates 
 Thanks to all our contributors!  
 <table>
   <tbody>
-    <tr>
-      <td align="center"><a href="GITHUBUSERNAME"><img src="GITHUBAVATAR" width="100px;" alt="GITHUBUSERNAME"/><br /><sub><b>GITHUBUSERNAME</b></sub></a><br /><a href="COMMITLINKHERE" title="Code"></a></td>
-    </tr>
+         <td align="center"><a href="https://github.com/NathanHardy01"><img src="https://avatars.githubusercontent.com/u/49400775?v=4" width="100px;" alt="NathanHardy01"/><br /><sub><b>NathanHardy01</b></sub></a><br></td>
    <tbody>
 <table>
