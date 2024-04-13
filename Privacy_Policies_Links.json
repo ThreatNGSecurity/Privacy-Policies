@@ -533,7 +533,7 @@
     ]
   },
   {
-    "Company": "Cisco Systems",
+    "Company": "Cisco",
     "Domain": ["www.cisco.com"],
     "Privacy Policy": [
       "https://www.cisco.com/c/en/us/about/trust-center/global-privacy-policy.html"
@@ -724,11 +724,6 @@
     "Company": "GoToMeeting",
     "Domain": ["https://www.goto.com/meeting"],
     "Privacy Policy": ["https://www.goto.com/company/legal/privacy/us"]
-  },
-  {
-    "Company": "Cisco",
-    "Domain": ["https://www.cisco.com"],
-    "Privacy Policy": ["https://www.cisco.com/c/en/us/about/legal/privacy-full.html"]
   },
   {
     "Company": "Personio",
