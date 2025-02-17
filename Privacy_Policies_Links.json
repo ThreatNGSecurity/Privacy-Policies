@@ -1,783 +1,4162 @@
 [
-  {
-    "Company": "NapoleonCat",
-    "Domain": ["https://napoleoncat.com/"],
-    "Privacy Policy": ["https://napoleoncat.com/privacy/"]
-  },
-  {
-    "Company": "FreshBooks",
-    "Domain": ["https://www.freshbooks.com"],
-    "Privacy Policy": ["https://www.freshbooks.com/policies/privacy"]
-  },
-  {
-    "Company": "Paychex",
-    "Domain": ["https://www.paychex.com"],
-    "Privacy Policy": ["https://www.paychex.com/corporate/security/privacy"]
-  },
-  {
-    "Company": "Xero",
-    "Domain": ["https://www.xero.com"],
-    "Privacy Policy": ["https://www.xero.com/us/legal/privacy/"]
-  },
-  {
-    "Company": "2Checkout",
-    "Domain": ["https://www.2checkout.com"],
-    "Privacy Policy": ["https://www.2checkout.com/legal/privacy/"]
-  },
-  {
-    "Company": "Spendesk",
-    "Domain": ["https://www.spendesk.com"],
-    "Privacy Policy": ["https://www.spendesk.com/legals/privacy/"]
-  },
-  {
-    "Company": "Bill.Com",
-    "Domain": ["https://www.bill.com"],
-    "Privacy Policy": ["https://www.bill.com/privacy"]
-  },
-  {
-    "Company": "Zuora",
-    "Domain": ["https://www.zuora.com"],
-    "Privacy Policy": ["https://www.zuora.com/privacy-statement/"]
-  },
-  {
-    "Company": "Coupa Software",
-    "Domain": ["https://www.coupa.com"],
-    "Privacy Policy": ["https://www.coupa.com/privacy-policy"]
-  },
-  {
-    "Company": "Skyword",
-    "Domain": ["https://www.skyward.com"],
-    "Privacy Policy": ["https://www.skyword.com/privacy-policy/"]
-  },
-  {
-    "Company": "Mobiniti",
-    "Domain": ["https://www.mobiniti.com/"],
-    "Privacy Policy": ["https://www.mobiniti.com/privacy/"]
-  },
-  {
-    "Company": "Intercom",
-    "Domain": ["https://www.intercom.com"],
-    "Privacy Policy": ["https://www.intercom.com/legal/privacy"]
-  },
-  {
-    "Company": "Mailchimp",
-    "Domain": ["https://mailchimp.com"],
-    "Privacy Policy": ["https://www.intuit.com/privacy/statement/"]
-  },
-  {
-    "Company": "Aurea",
-    "Domain": ["https://www.aurea.com/"],
-    "Privacy Policy": ["https://www.aurea.com/legal/privacy-statement/"]
-  },
-  {
-    "Company": "Act-On Software",
-    "Domain": ["https://act-on.com"],
-    "Privacy Policy": ["https://act-on.com/privacy-policy/"]
-  },
-  {
-    "Company": "Adobe",
-    "Domain": ["https://www.adobe.com"],
-    "Privacy Policy": ["https://www.adobe.com/privacy.html"]
-  },
-  {
-    "Company": "NextRoll",
-    "Domain": ["https://www.nextroll.com"],
-    "Privacy Policy": ["https://www.nextroll.com/privacy"]
-  },
-  {
-    "Company": "HubSpot",
-    "Domain": ["https://hubspot.com"],
-    "Privacy Policy": ["https://legal.hubspot.com/privacy-policy"]
-  },
-  {
-    "Company": "VMware",
-    "Domain": ["https://www.vmware.com"],
-    "Privacy Policy": [
-      "https://www.vmware.com/products/trust-center/privacy.html"
-    ]
-  },
-  {
-    "Company": "Blackbaud",
-    "Domain": ["https://www.blackbaud.com"],
-    "Privacy Policy": ["https://www.blackbaud.com/company/privacy-policy"]
-  },
-  {
-    "Company": "Splunk",
-    "Domain": ["https://www.splunk.com"],
-    "Privacy Policy": ["https://www.splunk.com/en_us/legal/privacy-policy.html"]
-  },
-  {
-    "Company": "Amazon Web Services (AWS)",
-    "Domain": ["https://aws.amazon.com"],
-    "Privacy Policy": ["https://aws.amazon.com/privacy/"]
-  },
-  {
-    "Company": "Walmart",
-    "Domain": ["https://walmart.com"],
-    "Privacy Policy": [
-      "https://corporate.walmart.com/privacy-security/walmart-privacy-notice"
-    ]
-  },
-  {
-    "Company": "Amazon",
-    "Domain": ["www.amazon.com"],
-    "Privacy Policy": [
-      "https://www.aboutamazon.com/about-us/public-policy/privacy"
-    ]
-  },
-  {
-    "Company": "Apple",
-    "Domain": ["www.apple.com"],
-    "Privacy Policy": ["https://www.apple.com/legal/privacy/"]
-  },
-  {
-    "Company": "CVS Health",
-    "Domain": ["https://www.cvshealth.com"],
-    "Privacy Policy": ["https://www.cvshealth.com/privacy-policy.html"]
-  },
-  {
-    "Company": "UnitedHealth Group",
-    "Domain": ["www.unitedhealthgroup.com"],
-    "Privacy Policy": ["https://www.unitedhealthgroup.com/privacy.html"]
-  },
-  {
-    "Company": "Exxon Mobil",
-    "Domain": ["www.exxonmobil.com"],
-    "Privacy Policy": [
-      "https://corporate.exxonmobil.com/global-legal-pages/privacy-policy"
-    ]
-  },
-  {
-    "Company": "Berkshire Hathaway",
-    "Domain": ["www.berkshirehathaway.com"],
-    "Privacy Policy": ["https://www.bhhs.com/privacy-policy"]
-  },
-  {
-    "Company": "Alphabet",
-    "Domain": ["https://www.abc.xyz"],
-    "Privacy Policy": ["https://policies.google.com/privacy"]
-  },
-  {
-    "Company": "McKesson",
-    "Domain": ["www.mckesson.com"],
-    "Privacy Policy": ["https://www.mckesson.com/Privacy-Notice/"]
-  },
-  {
-    "Company": "AmerisourceBergen",
-    "Domain": ["www.amerisourcebergen.com"],
-    "Privacy Policy": [
-      "https://abcordersso.amerisourcebergen.com/abcorder_logon/privacy-policy.html"
-    ]
-  },
-  {
-    "Company": "Costco Wholesale",
-    "Domain": ["www.costco.com"],
-    "Privacy Policy": ["https://www.costco.com/privacy-policy.html"]
-  },
-  {
-    "Company": "Cigna",
-    "Domain": ["https://www.cigna.com"],
-    "Privacy Policy": ["https://www.cigna.com/legal/compliance/privacy-notices"]
-  },
-  {
-    "Company": "AT&T",
-    "Domain": ["www.att.com"],
-    "Privacy Policy": ["https://about.att.com/privacy.html"]
-  },
-  {
-    "Company": "Microsoft",
-    "Domain": ["www.microsoft.com"],
-    "Privacy Policy": ["https://privacy.microsoft.com/"]
-  },
-  {
-    "Company": "Cardinal Health",
-    "Domain": ["www.cardinalhealth.com"],
-    "Privacy Policy": [
-      "https://www.cardinalhealth.com/en/support/privacy-policy.html"
-    ]
-  },
-  {
-    "Company": "Chevron",
-    "Domain": ["www.chevron.com"],
-    "Privacy Policy": ["https://www.chevron.com/privacy"]
-  },
-  {
-    "Company": "Home Depot",
-    "Domain": ["www.homedepot.com"],
-    "Privacy Policy": ["https://www.homedepot.com/privacy"]
-  },
-  {
-    "Company": "Walgreens Boots Alliance",
-    "Domain": ["www.walgreensbootsalliance.com"],
-    "Privacy Policy": [
-      "https://www.walgreensbootsalliance.com/online-privacy-and-security"
-    ]
-  },
-  {
-    "Company": "Marathon Petroleum",
-    "Domain": ["www.marathonpetroleum.com"],
-    "Privacy Policy": ["https://www.marathonpetroleum.com/Privacy-Policy/"]
-  },
-  {
-    "Company": "Elevance Health",
-    "Domain": ["www.elevancehealth.com"],
-    "Privacy Policy": ["https://www.elevancehealth.com/privacy-policy"]
-  },
-  {
-    "Company": "Kroger",
-    "Domain": ["www.thekrogerco.com", "kroger.com"],
-    "Privacy Policy": ["https://www.kroger.com/i/privacy-policy"]
-  },
-  {
-    "Company": "Ford Motor",
-    "Domain": ["www.ford.com"],
-    "Privacy Policy": ["https://www.ford.com/help/privacy/"]
-  },
-  {
-    "Company": "Verizon Communications",
-    "Domain": ["www.verizon.com"],
-    "Privacy Policy": ["https://www.verizon.com/about/privacy/"]
-  },
-  {
-    "Company": "JPMorgan Chase",
-    "Domain": ["www.jpmorganchase.com"],
-    "Privacy Policy": [
-      "https://www.jpmorgan.com/privacy",
-      "http://www.chase.com/privacy"
-    ]
-  },
-  {
-    "Company": "General Motors",
-    "Domain": ["www.gm.com"],
-    "Privacy Policy": ["https://www.gm.com/privacy-statement"]
-  },
-  {
-    "Company": "Centene",
-    "Domain": ["www.centene.com"],
-    "Privacy Policy": ["https://www.centene.com/privacy-policy.html"]
-  },
-  {
-    "Company": "Meta Platforms",
-    "Domain": ["https://www.meta.com/", "https://investor.fb.com"],
-    "Privacy Policy": ["https://www.facebook.com/privacy"]
-  },
-  {
-    "Company": "Comcast",
-    "Domain": ["https://www.xfinity.com/", "www.comcastcorporation.com"],
-    "Privacy Policy": ["https://www.xfinity.com/privacy"]
-  },
-  {
-    "Company": "Phillips 66",
-    "Domain": ["www.phillips66.com"],
-    "Privacy Policy": ["https://www.phillips66.com/privacy-statement/"]
-  },
-  {
-    "Company": "Valero Energy",
-    "Domain": ["www.valero.com"],
-    "Privacy Policy": ["https://www.valero.com/privacy-statement"]
-  },
-  {
-    "Company": "Dell",
-    "Domain": ["https://www.dell.com", "www.delltechnologies.com"],
-    "Privacy Policy": [
-      "https://www.dell.com/en-us/lp/privacy-center",
-      "https://www.dell.com/learn/us/en/uscorp1/policies-privacy"
-    ]
-  },
-  {
-    "Company": "Target",
-    "Domain": ["www.target.com"],
-    "Privacy Policy": [
-      "https://www.target.com/c/target-privacy-policy/-/N-4sr7p"
-    ]
-  },
-  {
-    "Company": "Fannie Mae",
-    "Domain": ["www.fanniemae.com"],
-    "Privacy Policy": [
-      "https://www.fanniemae.com/about-us/corporate-governance/online-privacy-notice",
-      "https://www.fanniemae.com/about-us/corporate-governance/ucdp-privacy-policy"
-    ]
-  },
-  {
-    "Company": "United Parcel Service",
-    "Domain": ["www.ups.com"],
-    "Privacy Policy": [
-      "https://www.ups.com/us/en/support/shipping-support/legal-terms-conditions/privacy-notice.page"
-    ]
-  },
-  {
-    "Company": "Lowe's",
-    "Domain": ["www.lowes.com"],
-    "Privacy Policy": [
-      "https://www.lowes.com/l/about/privacy-and-security-statement"
-    ]
-  },
-  {
-    "Company": "Bank of America",
-    "Domain": ["www.bankofamerica.com"],
-    "Privacy Policy": [
-      "https://www.bankofamerica.com/security-center/privacy-overview/"
-    ]
-  },
-  {
-    "Company": "Johnson & Johnson",
-    "Domain": ["www.jnj.com"],
-    "Privacy Policy": ["https://www.jnj.com/corporate/privacy-policy"]
-  },
-  {
-    "Company": "Archer Daniels Midland",
-    "Domain": ["www.adm.com"],
-    "Privacy Policy": [
-      "https://www.compliance.adm.com/documents/privacy-policy/"
-    ]
-  },
-  {
-    "Company": "FedEx",
-    "Domain": ["www.fedex.com"],
-    "Privacy Policy": ["https://www.fedex.com/en-us/trust-center/privacy.html"]
-  },
-  {
-    "Company": "Humana",
-    "Domain": ["www.humana.com"],
-    "Privacy Policy": ["https://www.humana.com/legal/privacy-policy"]
-  },
-  {
-    "Company": "Wells Fargo",
-    "Domain": ["www.wellsfargo.com"],
-    "Privacy Policy": ["https://www.wellsfargo.com/privacy-security/"]
-  },
-  {
-    "Company": "State Farm Insurance",
-    "Domain": ["www.statefarm.com"],
-    "Privacy Policy": [
-      "https://www.statefarm.com/customer-care/privacy-security"
-    ]
-  },
-  {
-    "Company": "Pfizer",
-    "Domain": ["www.pfizer.com"],
-    "Privacy Policy": [
-      "https://www.pfizer.com/privacy",
-      "https://www.pfizer.com/about/programs-policies/privacy-principles"
-    ]
-  },
-  {
-    "Company": "Citigroup",
-    "Domain": ["https://www.citi.com", "www.citigroup.com"],
-    "Privacy Policy": ["https://www.citigroup.com/global/privacy"]
-  },
-  {
-    "Company": "PepsiCo",
-    "Domain": ["https://www.pepsi.com", "www.pepsico.com"],
-    "Privacy Policy": ["https://www.pepsico.com/legal/privacy"]
-  },
-  {
-    "Company": "Intel",
-    "Domain": ["www.intel.com"],
-    "Privacy Policy": [
-      "https://www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html"
-    ]
-  },
-  {
-    "Company": "Procter & Gamble",
-    "Domain": ["www.pg.com"],
-    "Privacy Policy": ["https://privacypolicy.pg.com/en-US/"]
-  },
-  {
-    "Company": "General Electric",
-    "Domain": ["www.ge.com"],
-    "Privacy Policy": ["https://www.ge.com/privacy"]
-  },
-  {
-    "Company": "IBM",
-    "Domain": ["https://www.ibm.com"],
-    "Privacy Policy": ["https://www.ibm.com/us-en/privacy"]
-  },
-  {
-    "Company": "MetLife",
-    "Domain": ["www.metlife.com"],
-    "Privacy Policy": ["https://www.metlife.com/about-us/privacy-policy/"]
-  },
-  {
-    "Company": "Prudential Financial",
-    "Domain": ["www.prudential.com"],
-    "Privacy Policy": ["https://www.prudential.com/links/privacy-center"]
-  },
-  {
-    "Company": "Albertsons",
-    "Domain": ["https://www.albertsons.com/", "www.albertsonscompanies.com"],
-    "Privacy Policy": [
-      "https://www.albertsonscompanies.com/policies-and-disclosures/privacy-policy/default.aspx",
-      "https://www.albertsonscompanies.com/policies-and-disclosures/hipaa-notice-of-privacy-practices/default.aspx"
-    ]
-  },
-  {
-    "Company": "Walt Disney",
-    "Domain": ["https://disney.com", "www.thewaltdisneycompany.com"],
-    "Privacy Policy": ["https://privacy.thewaltdisneycompany.com/en/"]
-  },
-  {
-    "Company": "Energy Transfer",
-    "Domain": ["www.energytransfer.com"],
-    "Privacy Policy": ["https://www.energytransfer.com/privacy-policy"]
-  },
-  {
-    "Company": "Lockheed Martin",
-    "Domain": ["www.lockheedmartin.com"],
-    "Privacy Policy": [
-      "https://www.lockheedmartin.com/en-us/contact/disclaimer.html"
-    ]
-  },
-  {
-    "Company": "Freddie Mac",
-    "Domain": ["www.freddiemac.com"],
-    "Privacy Policy": ["https://www.freddiemac.com/terms/privacy"]
-  },
-  {
-    "Company": "Goldman Sachs Group",
-    "Domain": ["www.goldmansachs.com"],
-    "Privacy Policy": ["https://www.goldmansachs.com/privacy-and-cookies/"]
-  },
-  {
-    "Company": "Raytheon Technologies",
-    "Domain": ["www.rtx.com"],
-    "Privacy Policy": ["https://www.rtx.com/privacy"]
-  },
-  {
-    "Company": "HP",
-    "Domain": ["www.hp.com"],
-    "Privacy Policy": ["https://www.hp.com/us-en/privacy/privacy-central.html"]
-  },
-  {
-    "Company": "Boeing",
-    "Domain": ["www.boeing.com"],
-    "Privacy Policy": ["https://www.boeing.com/privacy-and-cookie-policy.page"]
-  },
-  {
-    "Company": "Morgan Stanley",
-    "Domain": ["www.morganstanley.com"],
-    "Privacy Policy": [
-      "https://www.morganstanley.com/privacy-pledge",
-      "https://www.morganstanley.com/disclaimers/us-privacy-policy-and-notice"
-    ]
-  },
-  {
-    "Company": "HCA Healthcare",
-    "Domain": ["www.hcahealthcare.com"],
-    "Privacy Policy": [
-      "https://hcahealthcare.com/legal/index.dot#privacy-policy"
-    ]
-  },
-  {
-    "Company": "AbbVie",
-    "Domain": ["www.abbvie.com"],
-    "Privacy Policy": ["https://privacy.abbvie.com"]
-  },
-  {
-    "Company": "Dow",
-    "Domain": ["www.dow.com"],
-    "Privacy Policy": ["https://legal.dow.com/en-us/privacy-statement.html"]
-  },
-  {
-    "Company": "Tesla",
-    "Domain": ["www.tesla.com"],
-    "Privacy Policy": [
-      "https://www.tesla.com/legal/privacy",
-      "https://www.tesla.com/support/privacy"
-    ]
-  },
-  {
-    "Company": "Allstate",
-    "Domain": ["www.allstate.com"],
-    "Privacy Policy": ["https://www.allstate.com/privacy-center"]
-  },
-  {
-    "Company": "American International Group",
-    "Domain": ["www.aig.com"],
-    "Privacy Policy": ["https://www.aig.com/global-privacy-policy"]
-  },
-  {
-    "Company": "Best Buy",
-    "Domain": ["https://bestbuy.com", "www.investors.bestbuy.com"],
-    "Privacy Policy": [
-      "https://www.bestbuy.com/site/help-topics/privacy-policy/pcmcat204400050062.c?id=pcmcat204400050062"
-    ]
-  },
-  {
-    "Company": "Charter Communications",
-    "Domain": ["www.charter.com"],
-    "Privacy Policy": ["https://www.spectrum.com/policies/your-privacy-rights"]
-  },
-  {
-    "Company": "Sysco",
-    "Domain": ["www.sysco.com"],
-    "Privacy Policy": ["https://sysco.com/Privacy-Notice.html"]
-  },
-  {
-    "Company": "Merck",
-    "Domain": ["https://www.merck.com"],
-    "Privacy Policy": ["https://www.msdprivacy.com/us/en/"]
-  },
-  {
-    "Company": "New York Life Insurance",
-    "Domain": ["www.newyorklife.com"],
-    "Privacy Policy": ["https://www.newyorklife.com/about/privacy-policy"]
-  },
-  {
-    "Company": "Caterpillar",
-    "Domain": ["www.caterpillar.com"],
-    "Privacy Policy": [
-      "https://www.caterpillar.com/en/legal-notices/dataprivacy.html",
-      "https://www.caterpillar.com/en/legal-notices/privacy-notice.html"
-    ]
-  },
-  {
-    "Company": "Cisco",
-    "Domain": ["www.cisco.com"],
-    "Privacy Policy": [
-      "https://www.cisco.com/c/en/us/about/trust-center/global-privacy-policy.html"
-    ]
-  },
-  {
-    "Company": "TJX",
-    "Domain": ["www.tjx.com"],
-    "Privacy Policy": ["https://www.tjx.com/privacy#"]
-  },
-  {
-    "Company": "Publix Super Markets",
-    "Domain": ["www.publix.com"],
-    "Privacy Policy": ["http://purchasing.publix.com/privacy.aspx"]
-  },
-  {
-    "Company": "ConocoPhillips",
-    "Domain": ["www.conocophillips.com"],
-    "Privacy Policy": ["https://www.conocophillips.com/privacy-policy/"]
-  },
-  {
-    "Company": "Liberty Mutual Insurance Group",
-    "Domain": ["www.libertymutual.com"],
-    "Privacy Policy": [
-      "https://www.libertymutualgroup.com/about-lm/corporate-information/privacy-policy"
-    ]
-  },
-  {
-    "Company": "Progressive",
-    "Domain": ["www.progressive.com"],
-    "Privacy Policy": ["https://www.progressive.com/privacy/"]
-  },
-  {
-    "Company": "Nationwide",
-    "Domain": ["www.nationwide.com"],
-    "Privacy Policy": ["https://www.nationwide.com/personal/privacy-security/"]
-  },
-  {
-    "Company": "Tyson Foods",
-    "Domain": ["www.tysonfoods.com"],
-    "Privacy Policy": ["https://www.tysonfoods.com/legal/privacy-policy"]
-  },
-  {
-    "Company": "Bristol-Myers Squibb",
-    "Domain": ["www.bms.com"],
-    "Privacy Policy": ["https://www.bms.com/th/en/privacy-policy.html"]
-  },
-  {
-    "Company": "Nike",
-    "Domain": ["www.nike.com"],
-    "Privacy Policy": [
-      "https://agreementservice.svs.nike.com/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.commerce.nikedotcom.web&country=US&language=en&requestType=redirect"
-    ]
-  },
-  {
-    "Company": "Deere",
-    "Domain": ["www.deere.com"],
-    "Privacy Policy": ["https://www.deere.com/en/privacy-and-data/"]
-  },
-  {
-    "Company": "American Express",
-    "Domain": ["www.americanexpress.com"],
-    "Privacy Policy": ["https://www.americanexpress.com/us/privacy-center/"]
-  },
-  {
-    "Company": "Abbott Laboratories",
-    "Domain": ["www.abbott.com"],
-    "Privacy Policy": ["https://www.abbott.com/privacy-policy.html"]
-  },
-  {
-    "Company": "StoneX Group",
-    "Domain": ["www.stonex.com"],
-    "Privacy Policy": ["https://primeservices.stonex.com/privacy-policy/"]
-  },
-  {
-    "Company": "Plains GP Holdings",
-    "Domain": ["www.plains.com"],
-    "Privacy Policy": ["https://www.plains.com/legal-notices"]
-  },
-  {
-    "Company": "Enterprise Products Partners",
-    "Domain": ["www.enterpriseproducts.com"],
-    "Privacy Policy": ["https://www.enterpriseproducts.com/privacy-policy/"]
-  },
-  {
-    "Company": "TIAA",
-    "Domain": ["www.tiaa.org"],
-    "Privacy Policy": ["https://www.tiaa.org/public/support/privacy"]
-  },
-  {
-    "Company": "Oracle",
-    "Domain": ["www.oracle.com"],
-    "Privacy Policy": ["https://www.oracle.com/legal/privacy/"]
-  },
-  {
-    "Company": "Thermo Fisher Scientific",
-    "Domain": ["https://www.thermofisher.com"],
-    "Privacy Policy": [
-      "https://www.thermofisher.com/us/en/home/global/privacy-policy.html"
-    ]
-  },
-  {
-    "Company": "Coca-Cola",
-    "Domain": ["www.coca-colacompany.com"],
-    "Privacy Policy": ["https://us.coca-cola.com/privacy-policy"]
-  },
-   {
-    "Company": "Google Workspace",
-    "Domain": ["https://workspace.google.com/"],
-    "Privacy Policy": ["https://policies.google.com/privacy?hl=en-US"]
-  },
-  {
-    "Company": "Zendesk",
-    "Domain": ["https://www.zendesk.com/"],
-    "Privacy Policy": ["https://www.zendesk.com/company/agreements-and-terms/privacy-notice/"]
-  },
-  {
-    "Company": "RingCentral",
-    "Domain": ["https://www.ringcentral.com/"],
-    "Privacy Policy": ["https://www.ringcentral.com/legal/privacy-notice.html"]
-  },
-  {
-    "Company": "GoToConnect",
-    "Domain": ["https://www.goto.com/connect"],
-    "Privacy Policy": ["https://www.goto.com/company/legal/privacy/us"]
-  },
-  {
-    "Company": "Avangate",
-    "Domain": ["https://www.avangatenetwork.com/"],
-    "Privacy Policy": ["https://www.avangatenetwork.com/legal/privacy/"]
-  },
-  {
-    "Company": "Teem (iOFFICE + SpaceIQ)",
-    "Domain": ["https://www.teem.com/"],
-    "Privacy Policy": ["https://teem-app.com/en/privacy-policy/"]
-  },
-  {
-    "Company": "Pipeliner CRM",
-    "Domain": ["https://www.pipelinersales.com/"],
-    "Privacy Policy": ["https://www.pipelinersales.com/privacy/"]
-  },
-  {
-    "Company": "Meistertask",
-    "Domain": ["https://www.meistertask.com/"],
-    "Privacy Policy": ["https://www.meisterlabs.com/privacy"]
-  },
-  {
-    "Company": "Travelperk",
-    "Domain": ["https://www.travelperk.com/"],
-    "Privacy Policy": ["https://www.travelperk.com/legal/privacy-policy/"]
-  },
-  {
-    "Company": "Practical Ignition",
-    "Domain": ["https://www.ignitionapp.com/"],
-    "Privacy Policy": ["https://www.ignitionapp.com/privacy"]
-  },
-  {
-    "Company": "Anaplan",
-    "Domain": ["https://www.anaplan.com/"],
-    "Privacy Policy": ["https://www.anaplan.com/privacy-statement/"]
-  },
-  {
-    "Company": "Domo",
-    "Domain": ["https://www.domo.com/"],
-    "Privacy Policy": ["https://www.domo.com/company/privacy-policy"]
-  },
-  {
-    "Company": "DocuSign",
-    "Domain": ["https://www.docusign.com/"],
-    "Privacy Policy": ["https://www.docusign.com/privacy"]
-  },
-  {
-    "Company": "Slack",
-    "Domain": ["https://slack.com/"],
-    "Privacy Policy": ["https://slack.com/trust/privacy/privacy-policy"]
-  },
-  {
-    "Company": "Twilio",
-    "Domain": ["https://www.twilio.com/en-us"],
-    "Privacy Policy": ["https://www.twilio.com/en-us/legal/privacy"]
-  },
-  {
-    "Company": "GitHub",
-    "Domain": ["https://github.com/"],
-    "Privacy Policy": ["https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement"]
-  },
-  {
-    "Company": "GoToMeeting",
-    "Domain": ["https://www.goto.com/meeting"],
-    "Privacy Policy": ["https://www.goto.com/company/legal/privacy/us"]
-  },
-  {
-    "Company": "Personio",
-    "Domain": ["https://www.personio.com"],
-    "Privacy Policy": ["https://www.personio.com/privacy-policy/"]
-  },
-  {
-    "Company": "Automatic Data Processing",
-    "Domain": ["https://www.adp.com/"],
-    "Privacy Policy": ["https://www.adp.com/privacy.aspx"]
-  },
-  {
-    "Company": "Clearlake Capital",
-    "Domain": ["https://clearlake.com"],
-    "Privacy Policy": ["https://clearlake.com/privacy-policy/"]
-  },
-  {
-    "Company": "Workday",
-    "Domain": ["https://www.workday.com"],
-    "Privacy Policy": ["https://www.workday.com/en-us/privacy.html"]
-  },
-  {
-    "Company": "ServiceNow",
-    "Domain": ["https://www.servicenow.com"],
-    "Privacy Policy": ["https://www.servicenow.com/service-privacy.html"]
-  },
-  {
-    "Company": "Workable",
-    "Domain": ["https://www.workable.com"],
-    "Privacy Policy": ["https://www.workable.com/privacy"]
-  },
-  {
-    "Company": "Namely",
-    "Domain": ["https://www.namely.com"],
-    "Privacy Policy": ["https://www.namely.com/privacy/"]
-  },
-  {
-    "Company": "Apptio",
-    "Domain": ["https://www.apptio.com"],
-    "Privacy Policy": ["https://www.apptio.com/company/data-privacy/"]
-  },
-  {
-    "Company": "GoodData",
-    "Domain": ["https://www.gooddata.com"],
-    "Privacy Policy": ["https://www.gooddata.com/legal/"]
-  },
-  {
-    "Company": "Tableau",
-    "Domain": ["https://tableau.com"],
-    "Privacy Policy": ["https://www.salesforce.com/company/privacy/"]
-  },
-  {
-    "Company": "New Relic",
-    "Domain": ["https://newrelic.com"],
-    "Privacy Policy": ["https://newrelic.com/termsandconditions/privacy"]
-  }
+	{
+		"Company": "1Password",
+		"Domain": "https://1password.com",
+		"Privacy Policy": "https://1password.com/legal/privacy/"
+	},
+	{
+		"Company": "2Checkout",
+		"Domain": "https://2checkout.com",
+		"Privacy Policy": "https://www.2checkout.com/legal/privacy/"
+	},
+	{
+		"Company": "3DS",
+		"Domain": "https://3ds.com",
+		"Privacy Policy": "https://discover.3ds.com/privacy-policy"
+	},
+	{
+		"Company": "3M",
+		"Domain": "https://3m.com",
+		"Privacy Policy": "https://www.3m.com/3M/en_US/company-us/privacy-policy/"
+	},
+	{
+		"Company": "A-Mark Precious Metals",
+		"Domain": "https://amark.com",
+		"Privacy Policy": "https://www.amark.com/privacy-policy/"
+	},
+	{
+		"Company": "A10 Networks",
+		"Domain": "https://a10networks.com",
+		"Privacy Policy": "https://www.a10networks.com/company/legal/privacy-policy/"
+	},
+	{
+		"Company": "Abbott Laboratories",
+		"Domain": "https://abbott.com",
+		"Privacy Policy": "https://www.abbott.com/privacy-policy.html"
+	},
+	{
+		"Company": "AbbVie",
+		"Domain": "https://abbvie.com",
+		"Privacy Policy": "https://privacy.abbvie.com"
+	},
+	{
+		"Company": "Academy Sports and Outdoors",
+		"Domain": "https://academy.com",
+		"Privacy Policy": "https://www.academy.com/privacy-policy"
+	},
+	{
+		"Company": "Act-On Software",
+		"Domain": "https://act-on.com",
+		"Privacy Policy": "https://act-on.com/privacy-policy/"
+	},
+	{
+		"Company": "ActiveCampaign",
+		"Domain": "https://activecampaign.com",
+		"Privacy Policy": "https://www.activecampaign.com/legal/privacy-policy"
+	},
+	{
+		"Company": "Activision Blizzard",
+		"Domain": "https://activisionblizzard.com",
+		"Privacy Policy": "https://www.activisionblizzard.com/legal/privacy-policy"
+	},
+	{
+		"Company": "AddThis",
+		"Domain": "https://addthis.com",
+		"Privacy Policy": "https://www.addthis.com/privacy/terms-of-service.html"
+	},
+	{
+		"Company": "Adobe",
+		"Domain": "https://adobe.com",
+		"Privacy Policy": "https://www.adobe.com/privacy.html"
+	},
+	{
+		"Company": "Adroll",
+		"Domain": "https://adroll.com",
+		"Privacy Policy": "https://help.adroll.com/hc/en-us/articles/216104687-Privacy-Notice-Requirements"
+	},
+	{
+		"Company": "Advance Auto Parts",
+		"Domain": "https://advanceautoparts.com",
+		"Privacy Policy": "https://shop.advanceautoparts.com/o/privacy-notice"
+	},
+	{
+		"Company": "Advanced Micro Devices",
+		"Domain": "https://amd.com",
+		"Privacy Policy": "https://www.amd.com/en/legal/privacy.html"
+	},
+	{
+		"Company": "AECOM",
+		"Domain": "https://aecom.com",
+		"Privacy Policy": "https://aecom.com/privacy-policy/"
+	},
+	{
+		"Company": "AES",
+		"Domain": "https://aes.com",
+		"Privacy Policy": "https://www.aes.com/privacy-cookies-policy"
+	},
+	{
+		"Company": "Aflac",
+		"Domain": "https://aflac.com",
+		"Privacy Policy": "https://www.aflac.com/about-aflac/privacy-policy.aspx"
+	},
+	{
+		"Company": "AGCO",
+		"Domain": "https://agcocorp.com",
+		"Privacy Policy": "https://www.agcocorp.com/privacy/"
+	},
+	{
+		"Company": "Aggregage",
+		"Domain": "https://aggregage.com",
+		"Privacy Policy": "https://www.aggregage.com/privacy-policy/"
+	},
+	{
+		"Company": "Agorapulse",
+		"Domain": "https://agorapulse.com",
+		"Privacy Policy": "https://www.agorapulse.com/privacy-policy/"
+	},
+	{
+		"Company": "Ahrefs",
+		"Domain": "https://ahrefs.com",
+		"Privacy Policy": "https://ahrefs.com/legal/privacy-policy"
+	},
+	{
+		"Company": "Air Products & Chemicals",
+		"Domain": "https://airproducts.com",
+		"Privacy Policy": "https://www.airproducts.com/privacy-notice"
+	},
+	{
+		"Company": "Airtable",
+		"Domain": "https://airtable.com",
+		"Privacy Policy": "https://www.airtable.com/company/privacy"
+	},
+	{
+		"Company": "Akismet",
+		"Domain": "https://akismet.com",
+		"Privacy Policy": "https://akismet.com/privacy/"
+	},
+	{
+		"Company": "Al Enterprise",
+		"Domain": "https://al-enterprise.com",
+		"Privacy Policy": "https://www.al-enterprise.com/en/legal/privacy"
+	},
+	{
+		"Company": "Albertsons",
+		"Domain": "https://albertsons.com",
+		"Privacy Policy": "https://www.albertsonscompanies.com/policies-and-disclosures/privacy-policy/default.aspx"
+	},
+	{
+		"Company": "Alcoa",
+		"Domain": "https://alcoa.com",
+		"Privacy Policy": "https://www.alcoa.com/global/en/general/privacy"
+	},
+	{
+		"Company": "Alleghany",
+		"Domain": "https://alleghany.com",
+		"Privacy Policy": "https://www.alleghany.com/privacy-policy/default.aspx"
+	},
+	{
+		"Company": "Allstate",
+		"Domain": "https://allstate.com",
+		"Privacy Policy": "https://www.allstate.com/privacy-center"
+	},
+	{
+		"Company": "Ally Financial",
+		"Domain": "https://ally.com",
+		"Privacy Policy": "https://www.ally.com/privacy/"
+	},
+	{
+		"Company": "Alphabet",
+		"Domain": "https://abc.xyz",
+		"Privacy Policy": "https://policies.google.com/privacy"
+	},
+	{
+		"Company": "Altice USA",
+		"Domain": "https://alticeusa.com",
+		"Privacy Policy": "https://investors.alticeusa.com/privacy-policy"
+	},
+	{
+		"Company": "Altria Group",
+		"Domain": "https://altria.com",
+		"Privacy Policy": "https://www.altria.com/privacy"
+	},
+	{
+		"Company": "Amazon",
+		"Domain": "https://amazon.com",
+		"Privacy Policy": "https://www.aboutamazon.com/about-us/public-policy/privacy"
+	},
+	{
+		"Company": "Amazon Linux",
+		"Domain": "https://amazon.com",
+		"Privacy Policy": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ&ref_=footer_privacy"
+	},
+	{
+		"Company": "Amazon Web Services (AWS)",
+		"Domain": "https://aws.amazon.com",
+		"Privacy Policy": "https://aws.amazon.com/privacy/"
+	},
+	{
+		"Company": "Ameren",
+		"Domain": "https://ameren.com",
+		"Privacy Policy": "https://www.ameren.com/privacy/"
+	},
+	{
+		"Company": "American Airlines Group",
+		"Domain": "https://aa.com",
+		"Privacy Policy": "https://www.aa.com/i18n/customer-service/support/privacy-policy.jsp"
+	},
+	{
+		"Company": "American Electric Power",
+		"Domain": "https://aep.com",
+		"Privacy Policy": "https://www.aep.com/privacy"
+	},
+	{
+		"Company": "American Express",
+		"Domain": "https://americanexpress.com",
+		"Privacy Policy": "https://www.americanexpress.com/us/privacy-center/"
+	},
+	{
+		"Company": "American Family Insurance Group",
+		"Domain": "https://amfam.com",
+		"Privacy Policy": "https://www.amfam.com/privacy-security"
+	},
+	{
+		"Company": "American Financial Group",
+		"Domain": "https://afginc.com",
+		"Privacy Policy": "https://www.greatamericaninsurancegroup.com/contact/privacy/notice"
+	},
+	{
+		"Company": "American International Group",
+		"Domain": "https://aig.com",
+		"Privacy Policy": "https://www.aig.com/global-privacy-policy"
+	},
+	{
+		"Company": "American Tower",
+		"Domain": "https://americantower.com",
+		"Privacy Policy": "https://www.americantower.com/privacy"
+	},
+	{
+		"Company": "AmerisourceBergen",
+		"Domain": "https://amerisourcebergen.com",
+		"Privacy Policy": "https://abcordersso.amerisourcebergen.com/abcorder_logon/privacy-policy.html"
+	},
+	{
+		"Company": "Amgen",
+		"Domain": "https://amgen.com",
+		"Privacy Policy": "https://www.amgen.com/privacy-statement"
+	},
+	{
+		"Company": "AMI",
+		"Domain": "https://ami.com",
+		"Privacy Policy": "https://www.ami.com/privacy-statement-us/"
+	},
+	{
+		"Company": "Amphenol",
+		"Domain": "https://amphenol.com",
+		"Privacy Policy": "https://amphenol.com/privacy-policy"
+	},
+	{
+		"Company": "Analog Devices",
+		"Domain": "https://analog.com",
+		"Privacy Policy": "https://www.analog.com/en/who-we-are/legal-and-risk-oversight/data-privacy/privacy-policy.html"
+	},
+	{
+		"Company": "Anaplan",
+		"Domain": "https://anaplan.com",
+		"Privacy Policy": "https://www.anaplan.com/privacy-statement/"
+	},
+	{
+		"Company": "Andersons",
+		"Domain": "https://andersonsinc.com",
+		"Privacy Policy": "https://www.andersonsinc.com/privacy/"
+	},
+	{
+		"Company": "Android",
+		"Domain": "https://android.com",
+		"Privacy Policy": "https://www.android.com/safety/privacy/"
+	},
+	{
+		"Company": "Anywhere Real Estate",
+		"Domain": "https://realogy.com",
+		"Privacy Policy": "https://anywhere.re/privacy-notice/"
+	},
+	{
+		"Company": "APA",
+		"Domain": "https://apacorp.com",
+		"Privacy Policy": "https://apacorp.com/privacy-policy/"
+	},
+	{
+		"Company": "Apollo Global Management",
+		"Domain": "https://apollo.com",
+		"Privacy Policy": "https://www.apollo.com/governance/privacy-policy"
+	},
+	{
+		"Company": "AppDynamics",
+		"Domain": "https://appdynamics.com",
+		"Privacy Policy": "https://www.appdynamics.com/legal/privacy-policy"
+	},
+	{
+		"Company": "Apple",
+		"Domain": "https://apple.com",
+		"Privacy Policy": "https://www.apple.com/legal/privacy/"
+	},
+	{
+		"Company": "Applied Materials",
+		"Domain": "https://appliedmaterials.com",
+		"Privacy Policy": "https://www.appliedmaterials.com/us/en/pages/privacy.html"
+	},
+	{
+		"Company": "Apptio",
+		"Domain": "https://apptio.com",
+		"Privacy Policy": "https://www.apptio.com/company/data-privacy/"
+	},
+	{
+		"Company": "Aramark",
+		"Domain": "https://aramark.com",
+		"Privacy Policy": "https://www.aramark.com/privacy-policy"
+	},
+	{
+		"Company": "Arch Linux",
+		"Domain": "https://archlinux.org",
+		"Privacy Policy": "https://terms.archlinux.org/docs/privacy-policy/"
+	},
+	{
+		"Company": "Archer Daniels Midland",
+		"Domain": "https://adm.com",
+		"Privacy Policy": "https://www.compliance.adm.com/documents/privacy-policy/"
+	},
+	{
+		"Company": "Arconic",
+		"Domain": "https://arconic.com",
+		"Privacy Policy": "https://www.arconic.com/privacy/"
+	},
+	{
+		"Company": "Arista",
+		"Domain": "https://arista.com",
+		"Privacy Policy": "https://www.arista.com/en/privacy-policy"
+	},
+	{
+		"Company": "ARKO",
+		"Domain": "https://arkocorp.com",
+		"Privacy Policy": "https://www.arkocorp.com/privacy-policy"
+	},
+	{
+		"Company": "Arrow Electronics",
+		"Domain": "https://arrow.com",
+		"Privacy Policy": "https://www.arrow.com/en/legal/privacy-policy"
+	},
+	{
+		"Company": "Arthur J. Gallagher",
+		"Domain": "https://ajg.com",
+		"Privacy Policy": "https://www.ajg.com/us/global-privacy-notice/"
+	},
+	{
+		"Company": "Aruba Networks",
+		"Domain": "https://arubanetworks.com",
+		"Privacy Policy": "https://www.hpe.com/us/en/legal/privacy.html"
+	},
+	{
+		"Company": "Asana",
+		"Domain": "https://asana.com",
+		"Privacy Policy": "https://asana.com/terms/privacy-statement"
+	},
+	{
+		"Company": "Asbury Automotive Group",
+		"Domain": "https://asburyauto.com",
+		"Privacy Policy": "https://www.asburyauto.com/company/privacy-policy"
+	},
+	{
+		"Company": "Assurant",
+		"Domain": "https://assurant.com",
+		"Privacy Policy": "https://www.assurant.com/PrivacyPolicy"
+	},
+	{
+		"Company": "Asterisk",
+		"Domain": "https://asterisk.org",
+		"Privacy Policy": "https://www.asterisk.org/privacy/"
+	},
+	{
+		"Company": "Asus",
+		"Domain": "https://asus.com",
+		"Privacy Policy": "https://www.asus.com/terms_of_use_notice_privacy_policy/privacy_policy/"
+	},
+	{
+		"Company": "AT&T",
+		"Domain": "https://att.com",
+		"Privacy Policy": "https://about.att.com/privacy.html"
+	},
+	{
+		"Company": "Atlassian",
+		"Domain": "https://atlassian.com",
+		"Privacy Policy": "https://www.atlassian.com/legal/privacy-policy"
+	},
+	{
+		"Company": "Aurea",
+		"Domain": "https://aurea.com",
+		"Privacy Policy": "https://www.aurea.com/legal/privacy-statement/"
+	},
+	{
+		"Company": "Auth0",
+		"Domain": "https://auth0.com",
+		"Privacy Policy": "https://www.okta.com/privacy-policy/"
+	},
+	{
+		"Company": "Auto-Owners Insurance",
+		"Domain": "https://auto-owners.com",
+		"Privacy Policy": "http://www.auto--owners.com/privacy"
+	},
+	{
+		"Company": "Autodesk",
+		"Domain": "https://autodesk.com",
+		"Privacy Policy": "https://www.autodesk.com/trust/privacy"
+	},
+	{
+		"Company": "Autoliv",
+		"Domain": "https://autoliv.com",
+		"Privacy Policy": "https://www.autoliv.com/privacy-policy"
+	},
+	{
+		"Company": "Automatic Data Processing",
+		"Domain": "https://adp.com",
+		"Privacy Policy": "https://www.adp.com/privacy.aspx"
+	},
+	{
+		"Company": "AutoNation",
+		"Domain": "https://autonation.com",
+		"Privacy Policy": "https://www.autonation.com/terms-of-use/privacy?privacy"
+	},
+	{
+		"Company": "AutoZone",
+		"Domain": "https://autozone.com",
+		"Privacy Policy": "https://www.autozone.com/lp/termsAndConditions"
+	},
+	{
+		"Company": "Avangate",
+		"Domain": "https://avangatenetwork.com",
+		"Privacy Policy": "https://www.avangatenetwork.com/legal/privacy/"
+	},
+	{
+		"Company": "Avantor",
+		"Domain": "https://avantorsciences.com",
+		"Privacy Policy": "https://www.avantorsciences.com/us/en/privacy-policy"
+	},
+	{
+		"Company": "Avery Dennison",
+		"Domain": "https://averydennison.com",
+		"Privacy Policy": "https://www.averydennison.com/en/home/legal-and-privacy-notices.html"
+	},
+	{
+		"Company": "Avis Budget Group",
+		"Domain": "https://avisbudgetgroup.com",
+		"Privacy Policy": "https://www.avisbudgetgroup.com/privacy-policy/"
+	},
+	{
+		"Company": "Avnet",
+		"Domain": "https://avnet.com",
+		"Privacy Policy": "https://www.avnet.com/wps/portal/us/about-avnet/data-privacy-policy/"
+	},
+	{
+		"Company": "Awario",
+		"Domain": "https://awario.com",
+		"Privacy Policy": "https://awario.com/terms-and-privacy/"
+	},
+	{
+		"Company": "Axis",
+		"Domain": "https://axis.com",
+		"Privacy Policy": "https://www.axis.com/privacy"
+	},
+	{
+		"Company": "Backblaze",
+		"Domain": "https://backblaze.com",
+		"Privacy Policy": "https://www.backblaze.com/company/policy/privacy"
+	},
+	{
+		"Company": "Baker Hughes",
+		"Domain": "https://bakerhughes.com",
+		"Privacy Policy": "https://www.bakerhughes.com/privacy"
+	},
+	{
+		"Company": "Ball",
+		"Domain": "https://ball.com",
+		"Privacy Policy": "https://www.ball.com/terms-of-use-and-privacy-policies"
+	},
+	{
+		"Company": "Bank of America",
+		"Domain": "https://bankofamerica.com",
+		"Privacy Policy": "https://www.bankofamerica.com/security-center/privacy-overview/"
+	},
+	{
+		"Company": "Bank of New York Mellon",
+		"Domain": "https://bnymellon.com",
+		"Privacy Policy": "https://www.bnymellon.com/us/en/privacy-policy.html"
+	},
+	{
+		"Company": "Basecamp",
+		"Domain": "https://basecamp.com",
+		"Privacy Policy": "https://37signals.com/policies/privacy/"
+	},
+	{
+		"Company": "Bath & Body Works",
+		"Domain": "https://bbwinc.com",
+		"Privacy Policy": "https://www.bbwinc.com/privacy-policy"
+	},
+	{
+		"Company": "Baxter International",
+		"Domain": "https://baxter.com",
+		"Privacy Policy": "https://www.baxter.com/policies-positions/global-privacy-policy"
+	},
+	{
+		"Company": "Beacon Roofing Supply",
+		"Domain": "https://becn.com",
+		"Privacy Policy": "https://www.becn.com/privacy-policy-and-cookie-notice"
+	},
+	{
+		"Company": "Becton Dickinson",
+		"Domain": "https://bd.com",
+		"Privacy Policy": "https://www.bd.com/en-us/about-bd/policies/privacy-policy-statement"
+	},
+	{
+		"Company": "Bed Bath & Beyond",
+		"Domain": "https://bedbathandbeyond.com",
+		"Privacy Policy": "https://help.bedbathandbeyond.com/help/s/article/PRIVACY-AND-SECURITY-POLICY"
+	},
+	{
+		"Company": "Behance",
+		"Domain": "https://behance.net",
+		"Privacy Policy": "https://www.behance.net/search/projects/privacy%20policy"
+	},
+	{
+		"Company": "Beijer Electronics",
+		"Domain": "https://beijerelectronics.us",
+		"Privacy Policy": "https://www.beijerelectronics.com/en/About___us/Privacy___policy"
+	},
+	{
+		"Company": "Berkshire Hathaway",
+		"Domain": "https://berkshirehathaway.com",
+		"Privacy Policy": "https://www.bhhs.com/privacy-policy"
+	},
+	{
+		"Company": "Berry Global Group",
+		"Domain": "https://berryglobal.com",
+		"Privacy Policy": "https://www.berryglobal.com/en/legal/privacy-notice"
+	},
+	{
+		"Company": "Best Buy",
+		"Domain": "https://bestbuy.com",
+		"Privacy Policy": "https://www.bestbuy.com/site/help-topics/privacy-policy/pcmcat204400050062.c?id=pcmcat204400050062"
+	},
+	{
+		"Company": "BeyondTrust",
+		"Domain": "https://beyondtrust.com",
+		"Privacy Policy": "https://www.beyondtrust.com/privacy"
+	},
+	{
+		"Company": "BigCommerce",
+		"Domain": "https://bigcommerce.com",
+		"Privacy Policy": "https://www.bigcommerce.com/privacy/"
+	},
+	{
+		"Company": "BiggerPockets",
+		"Domain": "https://biggerpockets.com",
+		"Privacy Policy": "https://www.biggerpockets.com/privacy"
+	},
+	{
+		"Company": "Bill.Com",
+		"Domain": "https://bill.com",
+		"Privacy Policy": "https://www.bill.com/privacy"
+	},
+	{
+		"Company": "Biogen",
+		"Domain": "https://biogen.com",
+		"Privacy Policy": "https://www.biogen.com/privacy-center/international-privacy.html"
+	},
+	{
+		"Company": "BJ's Wholesale Club",
+		"Domain": "https://bjs.com",
+		"Privacy Policy": "https://www.bjs.com/content?template=B&espot_main=about_privacy"
+	},
+	{
+		"Company": "Blackbaud",
+		"Domain": "https://blackbaud.com",
+		"Privacy Policy": "https://www.blackbaud.com/company/privacy-policy"
+	},
+	{
+		"Company": "BlackRock",
+		"Domain": "https://blackrock.com",
+		"Privacy Policy": "https://www.blackrock.com/corporate/compliance/privacy-policy"
+	},
+	{
+		"Company": "Blackstone",
+		"Domain": "https://blackstone.com",
+		"Privacy Policy": "https://www.blackstone.com/privacy/"
+	},
+	{
+		"Company": "Blender",
+		"Domain": "https://blender.org",
+		"Privacy Policy": "https://www.blender.org/privacy-policy/"
+	},
+	{
+		"Company": "Block",
+		"Domain": "https://block.xyz",
+		"Privacy Policy": "https://block.xyz/legal/applicant-privacy-notice"
+	},
+	{
+		"Company": "Bloomberg",
+		"Domain": "https://bloomberg.com",
+		"Privacy Policy": "https://www.bloomberg.com/notices/privacy/"
+	},
+	{
+		"Company": "Blubrry",
+		"Domain": "https://blubrry.com",
+		"Privacy Policy": "https://blubrry.com/about/privacy-policy/"
+	},
+	{
+		"Company": "Boeing",
+		"Domain": "https://boeing.com",
+		"Privacy Policy": "https://www.boeing.com/privacy-and-cookie-policy.page"
+	},
+	{
+		"Company": "Boise Cascade",
+		"Domain": "https://bc.com",
+		"Privacy Policy": "https://www.bc.com/privacy-policy/"
+	},
+	{
+		"Company": "Bold BI",
+		"Domain": "https://boldbi.com",
+		"Privacy Policy": "https://www.boldbi.com/legal/privacy"
+	},
+	{
+		"Company": "Bold Reports",
+		"Domain": "https://boldreports.com",
+		"Privacy Policy": "https://www.boldreports.com/legal/privacy"
+	},
+	{
+		"Company": "BoldSign",
+		"Domain": "https://boldsign.com",
+		"Privacy Policy": "https://boldsign.com/privacy-policy/"
+	},
+	{
+		"Company": "Booking Holdings",
+		"Domain": "https://bookingholdings.com",
+		"Privacy Policy": "https://www.bookingholdings.com/candidate-privacy-policy/"
+	},
+	{
+		"Company": "Booz Allen Hamilton Holding",
+		"Domain": "https://boozallen.com",
+		"Privacy Policy": "https://www.boozallen.com/tools/footer-navigation/privacy-policy.html"
+	},
+	{
+		"Company": "BorgWarner",
+		"Domain": "https://borgwarner.com",
+		"Privacy Policy": "https://www.borgwarner.com/legal/website-privacy-policy"
+	},
+	{
+		"Company": "Bosch Security",
+		"Domain": "https://boschsecurity.com",
+		"Privacy Policy": "https://www.boschsecurity.com/us/en/terms-of-use/terms-of-use/privacy-notice/"
+	},
+	{
+		"Company": "Boston Scientific",
+		"Domain": "https://bostonscientific.com",
+		"Privacy Policy": "https://www.bostonscientific.com/en-US/privacy-policy.html"
+	},
+	{
+		"Company": "Box",
+		"Domain": "https://box.com",
+		"Privacy Policy": "https://www.box.com/legal/privacypolicy"
+	},
+	{
+		"Company": "BPlan",
+		"Domain": "https://bplans.com",
+		"Privacy Policy": "https://www.bplans.com/policies/privacy-policy.php"
+	},
+	{
+		"Company": "Brighthouse Financial",
+		"Domain": "https://brighthousefinancial.com",
+		"Privacy Policy": "https://www.brighthousefinancial.com/privacy-policy/"
+	},
+	{
+		"Company": "Bristol-Myers Squibb",
+		"Domain": "https://bms.com",
+		"Privacy Policy": "https://www.bms.com/th/en/privacy-policy.html"
+	},
+	{
+		"Company": "Broadcom",
+		"Domain": "https://broadcom.com",
+		"Privacy Policy": "https://www.broadcom.com/company/legal/privacy/policy"
+	},
+	{
+		"Company": "Buffer",
+		"Domain": "https://buffer.com",
+		"Privacy Policy": "https://buffer.com/legal#privacy-policy"
+	},
+	{
+		"Company": "Builders FirstSource",
+		"Domain": "https://bldr.com",
+		"Privacy Policy": "https://www.bldr.com/privacy-policy"
+	},
+	{
+		"Company": "Burlington Stores",
+		"Domain": "https://burlington.com",
+		"Privacy Policy": "https://www.burlington.com/helpcenter/privacy-policy"
+	},
+	{
+		"Company": "C.H. Robinson Worldwide",
+		"Domain": "https://chrobinson.com",
+		"Privacy Policy": "https://www.chrobinson.com/en-us/privacy-notice/"
+	},
+	{
+		"Company": "Caesars Entertainment",
+		"Domain": "https://caesars.com",
+		"Privacy Policy": "https://www.caesars.com/corporate/privacy"
+	},
+	{
+		"Company": "Calendly",
+		"Domain": "https://calendly.com",
+		"Privacy Policy": "https://calendly.com/legal/privacy-notice"
+	},
+	{
+		"Company": "Campaign Monitor",
+		"Domain": "https://campaignmonitor.com",
+		"Privacy Policy": "https://www.campaignmonitor.com/trust/privacy-hub/"
+	},
+	{
+		"Company": "Campbell Soup",
+		"Domain": "https://campbells.com",
+		"Privacy Policy": "https://www.campbellsoupcompany.com/privacy-policy/"
+	},
+	{
+		"Company": "Camping World Holdings",
+		"Domain": "https://campingworld.com",
+		"Privacy Policy": "https://www.campingworld.com/helpcenter-ourpolicies/privacyPolicy.html"
+	},
+	{
+		"Company": "Canva",
+		"Domain": "https://canva.com",
+		"Privacy Policy": "https://www.canva.com/policies/privacy-policy/"
+	},
+	{
+		"Company": "Capital One Financial",
+		"Domain": "https://capitalone.com",
+		"Privacy Policy": "https://www.capitalone.com/privacy/"
+	},
+	{
+		"Company": "Cardinal Health",
+		"Domain": "https://cardinalhealth.com",
+		"Privacy Policy": "https://www.cardinalhealth.com/en/support/privacy-policy.html"
+	},
+	{
+		"Company": "Carlyle Group",
+		"Domain": "https://carlyle.com",
+		"Privacy Policy": "https://www.carlyle.com/notices-and-disclaimers#privacy-notice"
+	},
+	{
+		"Company": "CarMax",
+		"Domain": "https://carmax.com",
+		"Privacy Policy": "https://www.carmax.com/privacy-policy"
+	},
+	{
+		"Company": "Carrier",
+		"Domain": "https://carrier.com",
+		"Privacy Policy": "https://www.corporate.carrier.com/legal/privacy-notice/"
+	},
+	{
+		"Company": "Carvana",
+		"Domain": "https://carvana.com",
+		"Privacy Policy": "https://www.carvana.com/privacy-policy"
+	},
+	{
+		"Company": "Casey's General Stores",
+		"Domain": "https://caseys.com",
+		"Privacy Policy": "https://www.caseys.com/privacy-policy"
+	},
+	{
+		"Company": "Caterpillar",
+		"Domain": "https://caterpillar.com",
+		"Privacy Policy": "https://www.caterpillar.com/en/legal-notices/privacy-notice.html"
+	},
+	{
+		"Company": "CBRE Group",
+		"Domain": "https://cbre.com",
+		"Privacy Policy": "https://www.cbre.com/about-us/global-web-privacy-and-cookie-policy"
+	},
+	{
+		"Company": "CDC",
+		"Domain": "https://cdc.gov",
+		"Privacy Policy": "https://www.cdc.gov/other/privacy.html"
+	},
+	{
+		"Company": "CDW",
+		"Domain": "https://cdw.com",
+		"Privacy Policy": "https://www.cdw.com/content/cdw/en/terms-conditions/privacy-notice.html"
+	},
+	{
+		"Company": "Celanese",
+		"Domain": "https://celanese.com",
+		"Privacy Policy": "https://www.celanese.com/legal/privacy-policy/"
+	},
+	{
+		"Company": "Centene",
+		"Domain": "https://centene.com",
+		"Privacy Policy": "https://www.centene.com/privacy-policy.html"
+	},
+	{
+		"Company": "CenterPoint Energy",
+		"Domain": "https://centerpointenergy.com",
+		"Privacy Policy": "https://www.centerpointenergy.com/en-us/corporate/legal/privacy-policy"
+	},
+	{
+		"Company": "CF Industries Holdings",
+		"Domain": "https://cfindustries.com",
+		"Privacy Policy": "https://www.cfindustries.com/privacy-policy"
+	},
+	{
+		"Company": "Charles Schwab",
+		"Domain": "https://schwab.com",
+		"Privacy Policy": "https://www.schwab.com/legal/privacy"
+	},
+	{
+		"Company": "Charter Communications",
+		"Domain": "https://charter.com",
+		"Privacy Policy": "https://www.spectrum.com/policies/your-privacy-rights"
+	},
+	{
+		"Company": "Checkpoint",
+		"Domain": "https://checkpoint.com",
+		"Privacy Policy": "https://www.checkpoint.com/privacy/"
+	},
+	{
+		"Company": "Cheniere Energy",
+		"Domain": "https://cheniere.com",
+		"Privacy Policy": "https://www.cheniere.com/about/resources/privacypolicy"
+	},
+	{
+		"Company": "Chevron",
+		"Domain": "https://chevron.com",
+		"Privacy Policy": "https://www.chevron.com/privacy"
+	},
+	{
+		"Company": "Chewy",
+		"Domain": "https://chewy.com",
+		"Privacy Policy": "https://www.chewy.com/app/content/privacy"
+	},
+	{
+		"Company": "Chipotle",
+		"Domain": "https://chipotle.com",
+		"Privacy Policy": "https://chipotle.com/privacy-policy"
+	},
+	{
+		"Company": "CHS",
+		"Domain": "https://chsinc.com",
+		"Privacy Policy": "https://www.chsinc.com/privacy-policy"
+	},
+	{
+		"Company": "Cigna",
+		"Domain": "https://cigna.com",
+		"Privacy Policy": "https://www.cigna.com/legal/compliance/privacy-notices"
+	},
+	{
+		"Company": "Cincinnati Financial",
+		"Domain": "https://cinfin.com",
+		"Privacy Policy": "https://www.cinfin.com/privacy-policy"
+	},
+	{
+		"Company": "Cintas",
+		"Domain": "https://cintas.com",
+		"Privacy Policy": "https://www.cintas.com/Privacy/"
+	},
+	{
+		"Company": "CircleCI",
+		"Domain": "https://circleci.com",
+		"Privacy Policy": "https://circleci.com/legal/privacy/"
+	},
+	{
+		"Company": "CISA",
+		"Domain": "https://cisa.gov",
+		"Privacy Policy": "https://www.cisa.gov/privacy-policy"
+	},
+	{
+		"Company": "Cisco",
+		"Domain": "https://cisco.com",
+		"Privacy Policy": "https://www.cisco.com/c/en/us/about/trust-center/global-privacy-policy.html"
+	},
+	{
+		"Company": "Cision",
+		"Domain": "https://cision.com",
+		"Privacy Policy": "https://www.cision.com/legal/privacy-policy/"
+	},
+	{
+		"Company": "Citigroup",
+		"Domain": "https://citi.com",
+		"Privacy Policy": "https://www.citigroup.com/global/privacy"
+	},
+	{
+		"Company": "Citizens Financial Group",
+		"Domain": "https://citizensbank.com",
+		"Privacy Policy": "https://www.citizensbank.com/account-safeguards/privacy.aspx"
+	},
+	{
+		"Company": "Clearlake Capital",
+		"Domain": "https://clearlake.com",
+		"Privacy Policy": "https://clearlake.com/privacy-policy/"
+	},
+	{
+		"Company": "Cleveland-Cliffs",
+		"Domain": "https://clevelandcliffs.com",
+		"Privacy Policy": "https://www.clevelandcliffs.com/privacy-policy"
+	},
+	{
+		"Company": "Clorox",
+		"Domain": "https://thecloroxcompany.com",
+		"Privacy Policy": "https://www.thecloroxcompany.com/privacy/"
+	},
+	{
+		"Company": "Close.com",
+		"Domain": "https://close.com",
+		"Privacy Policy": "https://www.close.com/privacy"
+	},
+	{
+		"Company": "Cloudbees",
+		"Domain": "https://cloudbees.com",
+		"Privacy Policy": "https://www.cloudbees.com/privacy-policy"
+	},
+	{
+		"Company": "Cloudinary",
+		"Domain": "https://cloudinary.com",
+		"Privacy Policy": "https://cloudinary.com/privacy"
+	},
+	{
+		"Company": "CMS Energy",
+		"Domain": "https://cmsenergy.com",
+		"Privacy Policy": "https://www.cmsenergy.com/privacy-statement/default.aspx"
+	},
+	{
+		"Company": "Coca-Cola",
+		"Domain": "https://www.coca-cola.com",
+		"Privacy Policy": "https://us.coca-cola.com/privacy-policy"
+	},
+	{
+		"Company": "Cognizant Technology Solutions",
+		"Domain": "https://cognizant.com",
+		"Privacy Policy": "https://www.cognizant.com/us/en/privacy-notice"
+	},
+	{
+		"Company": "Coinbase Global",
+		"Domain": "https://coinbase.com",
+		"Privacy Policy": "https://www.coinbase.com/legal/privacy"
+	},
+	{
+		"Company": "Colgate-Palmolive",
+		"Domain": "https://colgatepalmolive.com",
+		"Privacy Policy": "https://www.colgatepalmolive.com/en-us/legal-privacy-policy"
+	},
+	{
+		"Company": "Comcast",
+		"Domain": "https://xfinity.com",
+		"Privacy Policy": "https://www.xfinity.com/privacy"
+	},
+	{
+		"Company": "CommScope Holding",
+		"Domain": "https://commscope.com",
+		"Privacy Policy": "https://www.commscope.com/about-us/privacy-statement/"
+	},
+	{
+		"Company": "Community Health Systems",
+		"Domain": "https://chs.net",
+		"Privacy Policy": "https://www.chs.net/privacy_statement/"
+	},
+	{
+		"Company": "Comodo",
+		"Domain": "https://comodo.com",
+		"Privacy Policy": "https://www.comodo.com/privacy-policy.php"
+	},
+	{
+		"Company": "Compass",
+		"Domain": "https://compass.com",
+		"Privacy Policy": "https://www.compass.com/legal/privacy-policy"
+	},
+	{
+		"Company": "Conagra Brands",
+		"Domain": "https://conagrabrands.com",
+		"Privacy Policy": "https://www.conagrabrands.com/privacy-policy"
+	},
+	{
+		"Company": "ConnectWise",
+		"Domain": "https://connectwise.com",
+		"Privacy Policy": "https://www.connectwise.com/company/privacy-policy"
+	},
+	{
+		"Company": "ConocoPhillips",
+		"Domain": "https://conocophillips.com",
+		"Privacy Policy": "https://www.conocophillips.com/privacy-policy/"
+	},
+	{
+		"Company": "Consolidated Edison",
+		"Domain": "https://coned.com",
+		"Privacy Policy": "https://www.coned.com/en/conedison-privacy-statement"
+	},
+	{
+		"Company": "Constant Contact",
+		"Domain": "https://constantcontact.com",
+		"Privacy Policy": "https://www.constantcontact.com/legal/privacy-notice"
+	},
+	{
+		"Company": "Constellation Brands",
+		"Domain": "https://cbrands.com",
+		"Privacy Policy": "https://www.cbrands.com/pages/privacy-notice"
+	},
+	{
+		"Company": "Corning",
+		"Domain": "https://corning.com",
+		"Privacy Policy": "https://www.corning.com/worldwide/en/privacy-policy.html"
+	},
+	{
+		"Company": "Corteva",
+		"Domain": "https://corteva.com",
+		"Privacy Policy": "https://www.corteva.com/privacy.html"
+	},
+	{
+		"Company": "Costco Wholesale",
+		"Domain": "https://costco.com",
+		"Privacy Policy": "https://www.costco.com/privacy-policy.html"
+	},
+	{
+		"Company": "Couchbase",
+		"Domain": "https://couchbase.com",
+		"Privacy Policy": "https://www.couchbase.com/privacy-policy/"
+	},
+	{
+		"Company": "Coupa Software",
+		"Domain": "https://coupa.com",
+		"Privacy Policy": "https://www.coupa.com/privacy-policy"
+	},
+	{
+		"Company": "Crown Holdings",
+		"Domain": "https://crowncork.com",
+		"Privacy Policy": "https://www.crowncork.com/privacy-policy"
+	},
+	{
+		"Company": "Crunchbase",
+		"Domain": "https://crunchbase.com",
+		"Privacy Policy": "https://about.crunchbase.com/terms-of-service/privacy-policy/"
+	},
+	{
+		"Company": "CSX",
+		"Domain": "https://csx.com",
+		"Privacy Policy": "https://www.csx.com/index.cfm/about-the-site/privacy/"
+	},
+	{
+		"Company": "Cummins",
+		"Domain": "https://cummins.com",
+		"Privacy Policy": "https://www.cummins.com/privacy-and-legal"
+	},
+	{
+		"Company": "Cvent",
+		"Domain": "https://cvent.com",
+		"Privacy Policy": "https://www.cvent.com/en/privacy-policy"
+	},
+	{
+		"Company": "CVS Health",
+		"Domain": "https://cvshealth.com",
+		"Privacy Policy": "https://www.cvshealth.com/privacy-policy.html"
+	},
+	{
+		"Company": "D.R. Horton",
+		"Domain": "https://drhorton.com",
+		"Privacy Policy": "https://www.drhorton.com/privacy-policy"
+	},
+	{
+		"Company": "Dana",
+		"Domain": "https://dana.com",
+		"Privacy Policy": "https://www.dana.com/privacy-notice/"
+	},
+	{
+		"Company": "Danaher",
+		"Domain": "https://danaher.com",
+		"Privacy Policy": "https://www.danaher.com/data-privacy-policy"
+	},
+	{
+		"Company": "Darden Restaurants",
+		"Domain": "https://darden.com",
+		"Privacy Policy": "https://www.darden.com/privacy-notice"
+	},
+	{
+		"Company": "DataStax",
+		"Domain": "https://datastax.com",
+		"Privacy Policy": "https://www.datastax.com/legal/datastax-website-privacy-policy"
+	},
+	{
+		"Company": "DaVita",
+		"Domain": "https://davita.com",
+		"Privacy Policy": "https://www.davita.com/privacy-policy"
+	},
+	{
+		"Company": "DCP Midstream",
+		"Domain": "https://dcpmidstream.com",
+		"Privacy Policy": "http://www.dcpmidstream.com/privacy-policy"
+	},
+	{
+		"Company": "Debian",
+		"Domain": "https://debian.org",
+		"Privacy Policy": "https://www.debian.org/legal/privacy"
+	},
+	{
+		"Company": "Deere",
+		"Domain": "https://deere.com",
+		"Privacy Policy": "https://www.deere.com/en/privacy-and-data/"
+	},
+	{
+		"Company": "Delek US Holdings",
+		"Domain": "https://delekus.com",
+		"Privacy Policy": "https://delekus.com/privacy-policy-2/"
+	},
+	{
+		"Company": "Dell",
+		"Domain": "https://dell.com",
+		"Privacy Policy": "https://www.dell.com/en-us/lp/legal/policies-privacy"
+	},
+	{
+		"Company": "Delphipraxis",
+		"Domain": "https://delphipraxis.net",
+		"Privacy Policy": "https://en.delphipraxis.net/privacy/"
+	},
+	{
+		"Company": "Delta Air Lines",
+		"Domain": "https://delta.com",
+		"Privacy Policy": "https://www.delta.com/us/en/legal/privacy-and-security"
+	},
+	{
+		"Company": "Devloutions",
+		"Domain": "https://devolutions.net",
+		"Privacy Policy": "https://devolutions.net/legal/privacy/"
+	},
+	{
+		"Company": "Devon Energy",
+		"Domain": "https://devonenergy.com",
+		"Privacy Policy": "https://www.devonenergy.com/privacy-statement"
+	},
+	{
+		"Company": "Diamondback Energy",
+		"Domain": "https://diamondbackenergy.com",
+		"Privacy Policy": "https://ir.diamondbackenergy.com/site-info/privacy-policy"
+	},
+	{
+		"Company": "Dick's Sporting Goods",
+		"Domain": "https://dickssportinggoods.com",
+		"Privacy Policy": "https://www.dickssportinggoods.com/s/policy/privacy-policy"
+	},
+	{
+		"Company": "Diigo",
+		"Domain": "https://diigo.com",
+		"Privacy Policy": "https://www.diigo.com/privacy"
+	},
+	{
+		"Company": "Dillard's",
+		"Domain": "https://dillards.com",
+		"Privacy Policy": "https://www.dillards.com/privacy"
+	},
+	{
+		"Company": "Discover Financial Services",
+		"Domain": "https://discover.com",
+		"Privacy Policy": "https://www.discover.com/privacy-statement/credit-cards-privacy-policy.html"
+	},
+	{
+		"Company": "DISH Network",
+		"Domain": "https://dish.com",
+		"Privacy Policy": "https://www.dish.com/privacy-notice"
+	},
+	{
+		"Company": "Docker",
+		"Domain": "https://docker.com",
+		"Privacy Policy": "https://www.docker.com/legal/docker-privacy-policy/"
+	},
+	{
+		"Company": "DocuSign",
+		"Domain": "https://docusign.com",
+		"Privacy Policy": "https://www.docusign.com/privacy"
+	},
+	{
+		"Company": "Dollar General",
+		"Domain": "https://dollargeneral.com",
+		"Privacy Policy": "https://www.dollargeneral.com/privacy-policy"
+	},
+	{
+		"Company": "Dollar Tree",
+		"Domain": "https://dollartree.com",
+		"Privacy Policy": "https://www.dollartree.com/privacy-policy"
+	},
+	{
+		"Company": "Dominion Energy",
+		"Domain": "https://dominionenergy.com",
+		"Privacy Policy": "https://www.dominionenergy.com/privacy"
+	},
+	{
+		"Company": "Domo",
+		"Domain": "https://domo.com",
+		"Privacy Policy": "https://www.domo.com/company/privacy-policy"
+	},
+	{
+		"Company": "Dover",
+		"Domain": "https://dovercorporation.com",
+		"Privacy Policy": "https://www.dovercorporation.com/privacy-policy"
+	},
+	{
+		"Company": "Dow",
+		"Domain": "https://dow.com",
+		"Privacy Policy": "https://legal.dow.com/en-us/privacy-statement.html"
+	},
+	{
+		"Company": "Drift",
+		"Domain": "https://drift.com",
+		"Privacy Policy": "https://www.drift.com/privacy-policy/"
+	},
+	{
+		"Company": "Dropbox",
+		"Domain": "https://dropbox.com",
+		"Privacy Policy": "https://www.dropbox.com/privacy"
+	},
+	{
+		"Company": "Drupal",
+		"Domain": "https://drupal.org",
+		"Privacy Policy": "https://www.drupal.org/privacy"
+	},
+	{
+		"Company": "DTE Energy",
+		"Domain": "https://dteenergy.com",
+		"Privacy Policy": "https://www.dteenergy.com/us/en/quicklinks/customer-data-privacy-policy.html"
+	},
+	{
+		"Company": "Duke Energy",
+		"Domain": "https://duke-energy.com",
+		"Privacy Policy": "https://www.duke-energy.com/legal/privacy-policy"
+	},
+	{
+		"Company": "DuPont",
+		"Domain": "https://dupont.com",
+		"Privacy Policy": "https://www.dana.com/privacy-notice/"
+	},
+	{
+		"Company": "DXC Technology",
+		"Domain": "https://dxc.com",
+		"Privacy Policy": "https://dxc.com/us/en/privacy"
+	},
+	{
+		"Company": "Dynatrace",
+		"Domain": "https://dynatrace.com",
+		"Privacy Policy": "https://www.dynatrace.com/company/trust-center/privacy/"
+	},
+	{
+		"Company": "Eastman Chemical",
+		"Domain": "https://eastman.com",
+		"Privacy Policy": "https://www.eastman.com/en/privacy/policy"
+	},
+	{
+		"Company": "eBay",
+		"Domain": "https://ebay.com",
+		"Privacy Policy": "https://www.ebay.com/help/policies/member-behaviour-policies/user-privacy-notice-privacy-policy?id=4260"
+	},
+	{
+		"Company": "Eclipse",
+		"Domain": "https://eclipse.org",
+		"Privacy Policy": "https://www.eclipse.org/legal/privacy.php"
+	},
+	{
+		"Company": "Ecolab",
+		"Domain": "https://ecolab.com",
+		"Privacy Policy": "https://www.ecolab.com/privacy-policy"
+	},
+	{
+		"Company": "Edison International",
+		"Domain": "https://edisoninvestor.com",
+		"Privacy Policy": "https://www.edison.com/privacy-notice"
+	},
+	{
+		"Company": "EdrawSoft",
+		"Domain": "https://edrawsoft.com",
+		"Privacy Policy": "https://www.edrawsoft.com/privacy-policy.html"
+	},
+	{
+		"Company": "Elastic",
+		"Domain": "https://elastic.co",
+		"Privacy Policy": "https://www.elastic.com/privacy-policy"
+	},
+	{
+		"Company": "Elegant Themes",
+		"Domain": "https://elegantthemes.com",
+		"Privacy Policy": "https://www.elegantthemes.com/policy/privacy/"
+	},
+	{
+		"Company": "Elementor",
+		"Domain": "https://elementor.com",
+		"Privacy Policy": "https://elementor.com/about/privacy/"
+	},
+	{
+		"Company": "Elevance Health",
+		"Domain": "https://elevancehealth.com",
+		"Privacy Policy": "https://www.elevancehealth.com/privacy-policy"
+	},
+	{
+		"Company": "Eli Lilly",
+		"Domain": "https://lilly.com",
+		"Privacy Policy": "https://privacynotice.lilly.com/"
+	},
+	{
+		"Company": "Embarcadero",
+		"Domain": "https://embarcadero.com",
+		"Privacy Policy": "https://blogs.embarcadero.com/privacy-policy/"
+	},
+	{
+		"Company": "EMCOR Group",
+		"Domain": "https://emcorgroup.com",
+		"Privacy Policy": "https://www.emcorgroup.com/privacy-policy"
+	},
+	{
+		"Company": "Emerson Electric",
+		"Domain": "https://emerson.com",
+		"Privacy Policy": "https://www.emerson.com/en-us/privacy-notice"
+	},
+	{
+		"Company": "Energy Transfer",
+		"Domain": "https://energytransfer.com",
+		"Privacy Policy": "https://www.energytransfer.com/privacy-policy"
+	},
+	{
+		"Company": "EnLink Midstream",
+		"Domain": "https://enlink.com",
+		"Privacy Policy": "https://www.enlink.com/privacy-policy/"
+	},
+	{
+		"Company": "Entergy",
+		"Domain": "https://entergy.com",
+		"Privacy Policy": "https://www.entergy.com/privacy-policy/"
+	},
+	{
+		"Company": "Enterprise Products Partners",
+		"Domain": "https://enterpriseproducts.com",
+		"Privacy Policy": "https://www.enterpriseproducts.com/privacy-policy/"
+	},
+	{
+		"Company": "Equinix",
+		"Domain": "https://equinix.com",
+		"Privacy Policy": "https://www.equinix.com/about/legal/privacy"
+	},
+	{
+		"Company": "Equitable Holdings",
+		"Domain": "https://equitable.com",
+		"Privacy Policy": "https://equitable.com/privacy-security-and-fraud"
+	},
+	{
+		"Company": "Erie Insurance Group",
+		"Domain": "https://erieinsurance.com",
+		"Privacy Policy": "https://www.erieinsurance.com/privacy-notice"
+	},
+	{
+		"Company": "Esri",
+		"Domain": "https://esri.com",
+		"Privacy Policy": "https://www.esri.com/en-us/privacy/overview"
+	},
+	{
+		"Company": "Estee Lauder",
+		"Domain": "https://elcompanies.com",
+		"Privacy Policy": "https://www.elcompanies.com/en/privacy"
+	},
+	{
+		"Company": "Evanto",
+		"Domain": "https://envato.com",
+		"Privacy Policy": "https://www.envato.com/privacy/"
+	},
+	{
+		"Company": "Eventbrite",
+		"Domain": "https://eventbrite.com",
+		"Privacy Policy": "https://www.eventbrite.com/help/en-us/articles/460838/eventbrite-privacy-policy/"
+	},
+	{
+		"Company": "Evernote",
+		"Domain": "https://evernote.com",
+		"Privacy Policy": "https://evernote.com/privacy/policy"
+	},
+	{
+		"Company": "Eversource Energy",
+		"Domain": "https://eversource.com",
+		"Privacy Policy": "https://www.eversource.com/content/residential/about/privacy-policy"
+	},
+	{
+		"Company": "Exelon",
+		"Domain": "https://exeloncorp.com",
+		"Privacy Policy": "https://www.exeloncorp.com/privacy-policy"
+	},
+	{
+		"Company": "Expedia Group",
+		"Domain": "https://expedia.com",
+		"Privacy Policy": "https://www.expedia.com/legal/privacy"
+	},
+	{
+		"Company": "Expeditors Intl. of Washington",
+		"Domain": "https://expeditors.com",
+		"Privacy Policy": "https://www.expeditors.com/legal"
+	},
+	{
+		"Company": "Extreme Networks",
+		"Domain": "https://extremenetworks.com",
+		"Privacy Policy": "https://www.extremenetworks.com/about-extreme-networks/company/legal/privacy-and-cookies-policy"
+	},
+	{
+		"Company": "Exxon Mobil",
+		"Domain": "https://exxonmobil.com",
+		"Privacy Policy": "https://corporate.exxonmobil.com/global-legal-pages/privacy-policy"
+	},
+	{
+		"Company": "F-Secure",
+		"Domain": "https://f-secure.com",
+		"Privacy Policy": "https://www.f-secure.com/en/legal/privacy/statement"
+	},
+	{
+		"Company": "F5",
+		"Domain": "https://f5.com",
+		"Privacy Policy": "https://www.f5.com/company/policies/privacy-notice"
+	},
+	{
+		"Company": "Fannie Mae",
+		"Domain": "https://fanniemae.com",
+		"Privacy Policy": "https://www.fanniemae.com/about-us/corporate-governance/online-privacy-notice"
+	},
+	{
+		"Company": "Farmers Insurance Exchange",
+		"Domain": "https://farmers.com",
+		"Privacy Policy": "https://www.farmers.com/privacy-statement/"
+	},
+	{
+		"Company": "Fastly",
+		"Domain": "https://fastly.com",
+		"Privacy Policy": "https://www.fastly.com/privacy"
+	},
+	{
+		"Company": "Fastmail",
+		"Domain": "https://fastmail.com",
+		"Privacy Policy": "https://www.fastmail.com/privacy/"
+	},
+	{
+		"Company": "FCC",
+		"Domain": "https://fcc.gov",
+		"Privacy Policy": "https://www.fcc.gov/encyclopedia/privacy-policy"
+	},
+	{
+		"Company": "FedEx",
+		"Domain": "https://fedex.com",
+		"Privacy Policy": "https://www.fedex.com/en-us/trust-center/privacy.html"
+	},
+	{
+		"Company": "Feedly",
+		"Domain": "https://feedly.com",
+		"Privacy Policy": "https://feedly.com/i/privacy"
+	},
+	{
+		"Company": "Fidelity National Financial",
+		"Domain": "https://fnf.com",
+		"Privacy Policy": "https://fnf.com/privacy-notice"
+	},
+	{
+		"Company": "Fidelity National Information Services",
+		"Domain": "https://fisglobal.com",
+		"Privacy Policy": "https://www.fisglobal.com/privacy"
+	},
+	{
+		"Company": "Fifth Third Bancorp",
+		"Domain": "https://53.com",
+		"Privacy Policy": "https://www.53.com/content/fifth-third/en/privacy-security/privacy-policies-data-security.html"
+	},
+	{
+		"Company": "Figma",
+		"Domain": "https://figma.com",
+		"Privacy Policy": "https://www.figma.com/legal/privacy/"
+	},
+	{
+		"Company": "First American Financial",
+		"Domain": "https://firstam.com",
+		"Privacy Policy": "https://www.firstam.com/privacy-policy/"
+	},
+	{
+		"Company": "FirstEnergy",
+		"Domain": "https://firstenergycorp.com",
+		"Privacy Policy": "https://www.firstenergycorp.com/corporate/privacy_legal_statement.html"
+	},
+	{
+		"Company": "Fiserv",
+		"Domain": "https://fiserv.com",
+		"Privacy Policy": "https://www.fiserv.com/en/about-fiserv/privacy-notice.html"
+	},
+	{
+		"Company": "Fiverr",
+		"Domain": "https://fiverr.com",
+		"Privacy Policy": "https://www.fiverr.com/legal-portal/privacy/privacy-policy?source=footer"
+	},
+	{
+		"Company": "Flexera",
+		"Domain": "https://flexera.com",
+		"Privacy Policy": "https://www.flexera.com/legal/privacy-policy"
+	},
+	{
+		"Company": "Flickr",
+		"Domain": "https://flickr.com",
+		"Privacy Policy": "https://www.flickr.com/help/privacy/"
+	},
+	{
+		"Company": "Fluor",
+		"Domain": "https://fluor.com",
+		"Privacy Policy": "https://www.fluor.com/privacy-policy"
+	},
+	{
+		"Company": "FM Global",
+		"Domain": "https://fmglobal.com",
+		"Privacy Policy": "https://www.fmglobal.com/privacy-policy"
+	},
+	{
+		"Company": "Foot Locker",
+		"Domain": "https://footlocker.com",
+		"Privacy Policy": "https://help.footlocker.com/hc/en-us/articles/360034125214-Privacy-Statement"
+	},
+	{
+		"Company": "Forcepoint",
+		"Domain": "https://forcepoint.com",
+		"Privacy Policy": "https://www.forcepoint.com/company/privacy-policy"
+	},
+	{
+		"Company": "Ford Motor",
+		"Domain": "https://ford.com",
+		"Privacy Policy": "https://www.ford.com/help/privacy/"
+	},
+	{
+		"Company": "Forem",
+		"Domain": "https://forem.com",
+		"Privacy Policy": "https://account.forem.com/privacy"
+	},
+	{
+		"Company": "Fortinet",
+		"Domain": "https://fortiguard.com",
+		"Privacy Policy": "https://www.fortinet.com/corporate/about-us/privacy"
+	},
+	{
+		"Company": "Fox",
+		"Domain": "https://fox.com",
+		"Privacy Policy": "https://www.foxnews.com/privacy-policy"
+	},
+	{
+		"Company": "Franklin Resources",
+		"Domain": "https://franklinresources.com",
+		"Privacy Policy": "https://www.franklinresources.com/help-legal/privacy"
+	},
+	{
+		"Company": "Freddie Mac",
+		"Domain": "https://freddiemac.com",
+		"Privacy Policy": "https://www.freddiemac.com/terms/privacy"
+	},
+	{
+		"Company": "FreeBSD",
+		"Domain": "https://freebsd.org",
+		"Privacy Policy": "https://www.freebsd.org/privacy/"
+	},
+	{
+		"Company": "Freeport-McMoRan",
+		"Domain": "https://fcx.com",
+		"Privacy Policy": "https://www.fcx.com/freeport-mcmoran-online-privacy-notice"
+	},
+	{
+		"Company": "Fresenius",
+		"Domain": "https://fresenius.com",
+		"Privacy Policy": "https://www.freseniusmedicalcare.com/en/privacy-policy/"
+	},
+	{
+		"Company": "FreshBooks",
+		"Domain": "https://freshbooks.com",
+		"Privacy Policy": "https://www.freshbooks.com/policies/privacy"
+	},
+	{
+		"Company": "Freshdesk",
+		"Domain": "https://freshdesk.com",
+		"Privacy Policy": "https://www.freshworks.com/privacy/"
+	},
+	{
+		"Company": "Frontier Communications",
+		"Domain": "https://frontier.com",
+		"Privacy Policy": "https://frontier.com/corporate/privacy-policy"
+	},
+	{
+		"Company": "Future",
+		"Domain": "https://futureplc.com",
+		"Privacy Policy": "https://futureplc.com/privacy-policy/"
+	},
+	{
+		"Company": "G2",
+		"Domain": "https://g2.com",
+		"Privacy Policy": "https://legal.g2.com/privacy-policy"
+	},
+	{
+		"Company": "Gallagher",
+		"Domain": "https://gallagher.com",
+		"Privacy Policy": "https://www.gallagher.com/PrivacyStatement"
+	},
+	{
+		"Company": "Gap",
+		"Domain": "https://gapinc.com",
+		"Privacy Policy": "https://www.gapinc.com/en-us/careers/careers-privacy-policy"
+	},
+	{
+		"Company": "Gartner",
+		"Domain": "https://gartner.com",
+		"Privacy Policy": "https://www.gartner.com/en/about/policies/privacy"
+	},
+	{
+		"Company": "General Dynamics",
+		"Domain": "https://gd.com",
+		"Privacy Policy": "https://www.gd.com/privacy-policy"
+	},
+	{
+		"Company": "General Electric",
+		"Domain": "https://ge.com",
+		"Privacy Policy": "https://www.ge.com/privacy"
+	},
+	{
+		"Company": "General Mills",
+		"Domain": "https://generalmills.com",
+		"Privacy Policy": "https://www.generalmills.com/privacy-security/countries-privacy-policy"
+	},
+	{
+		"Company": "General Motors",
+		"Domain": "https://gm.com",
+		"Privacy Policy": "https://www.gm.com/privacy-statement"
+	},
+	{
+		"Company": "Genuine Parts",
+		"Domain": "https://genpt.com",
+		"Privacy Policy": "https://www.genpt.com/privacy-notice"
+	},
+	{
+		"Company": "Genworth Financial",
+		"Domain": "https://genworth.com",
+		"Privacy Policy": "https://www.genworth.com/online-privacy-policy"
+	},
+	{
+		"Company": "GetResponse",
+		"Domain": "https://getresponse.com",
+		"Privacy Policy": "https://www.getresponse.com/legal/privacy"
+	},
+	{
+		"Company": "Gilead Sciences",
+		"Domain": "https://gilead.com",
+		"Privacy Policy": "https://www.gilead.com/privacy-statements"
+	},
+	{
+		"Company": "GitHub",
+		"Domain": "https://github.com",
+		"Privacy Policy": "https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement"
+	},
+	{
+		"Company": "GitLab",
+		"Domain": "https://gitlab.com",
+		"Privacy Policy": "https://about.gitlab.com/privacy/"
+	},
+	{
+		"Company": "Glassdoor",
+		"Domain": "https://glassdoor.com",
+		"Privacy Policy": "https://www.glassdoor.com/privacy/"
+	},
+	{
+		"Company": "Global Partners",
+		"Domain": "https://globalp.com",
+		"Privacy Policy": "https://www.globalp.com/privacy-policy/"
+	},
+	{
+		"Company": "Global Payments",
+		"Domain": "https://globalpayments.com",
+		"Privacy Policy": "https://www.globalpayments.com/en-gb/privacy-statement"
+	},
+	{
+		"Company": "GNOME",
+		"Domain": "https://gnome.org",
+		"Privacy Policy": "https://www.gnome.org/privacy-policy/"
+	},
+	{
+		"Company": "GoDaddy",
+		"Domain": "https://godaddy.com",
+		"Privacy Policy": "https://www.godaddy.com/agreements/privacy"
+	},
+	{
+		"Company": "Goldman Sachs Group",
+		"Domain": "https://goldmansachs.com",
+		"Privacy Policy": "https://www.goldmansachs.com/privacy-and-cookies/"
+	},
+	{
+		"Company": "GoodData",
+		"Domain": "https://gooddata.com",
+		"Privacy Policy": "https://www.gooddata.com/legal/"
+	},
+	{
+		"Company": "Goodyear Tire & Rubber",
+		"Domain": "https://goodyear.com",
+		"Privacy Policy": "https://www.goodyear.com/en_US/terms/online-privacy-policy.html"
+	},
+	{
+		"Company": "Google",
+		"Domain": "https://google.com",
+		"Privacy Policy": "https://policies.google.com/privacy?hl=en&fg=1"
+	},
+	{
+		"Company": "Google Workspace",
+		"Domain": "https://workspace.google.com",
+		"Privacy Policy": "https://policies.google.com/privacy?hl=en-US"
+	},
+	{
+		"Company": "GoToMeeting",
+		"Domain": "https://goto.com",
+		"Privacy Policy": "https://www.goto.com/company/legal/privacy/us"
+	},
+	{
+		"Company": "Grafana",
+		"Domain": "https://grafana.com",
+		"Privacy Policy": "https://grafana.com/legal/privacy-policy/"
+	},
+	{
+		"Company": "Grammarly",
+		"Domain": "https://grammarly.com",
+		"Privacy Policy": "https://www.grammarly.com/privacy-policy"
+	},
+	{
+		"Company": "Graphic Packaging Holding",
+		"Domain": "https://graphicpkg.com",
+		"Privacy Policy": "https://www.graphicpkg.com/privacy-rights-policies/"
+	},
+	{
+		"Company": "Graybar Electric",
+		"Domain": "https://graybar.com",
+		"Privacy Policy": "https://www.graybar.com/store/privacy-policy"
+	},
+	{
+		"Company": "Green Geeks",
+		"Domain": "https://greengeeks.com",
+		"Privacy Policy": "https://www.greengeeks.com/legal/privacy"
+	},
+	{
+		"Company": "Group 1 Automotive",
+		"Domain": "https://group1auto.com",
+		"Privacy Policy": "https://www.group1auto.com/privacy.html"
+	},
+	{
+		"Company": "GTmetrix",
+		"Domain": "https://gtmetrix.com",
+		"Privacy Policy": "https://gtmetrix.com/privacy-policy.html"
+	},
+	{
+		"Company": "Guardian Life Ins. Co. of America",
+		"Domain": "https://guardianlife.com",
+		"Privacy Policy": "https://www.guardianlife.com/privacy-policy"
+	},
+	{
+		"Company": "GXO Logistics",
+		"Domain": "https://gxo.com",
+		"Privacy Policy": "https://gxo.com/privacy-policy/"
+	},
+	{
+		"Company": "H3 Platform",
+		"Domain": "https://h3platform.com",
+		"Privacy Policy": "https://www.h3platform.com/"
+	},
+	{
+		"Company": "Halliburton",
+		"Domain": "https://halliburton.com",
+		"Privacy Policy": "https://www.halliburton.com/en/about-us/corporate-governance/privacy-policy"
+	},
+	{
+		"Company": "Hanesbrands",
+		"Domain": "https://hanes.com",
+		"Privacy Policy": "https://www.hanes.com/privacy-policy"
+	},
+	{
+		"Company": "Hartford Financial Services Group",
+		"Domain": "https://thehartford.com",
+		"Privacy Policy": "https://www.thehartford.com/online-privacy-policy"
+	},
+	{
+		"Company": "Hasbro",
+		"Domain": "https://hasbro.com",
+		"Privacy Policy": "https://docs.hasbro.com/en-us/legal/privacy"
+	},
+	{
+		"Company": "HashiCorp",
+		"Domain": "https://hashicorp.com",
+		"Privacy Policy": "https://www.hashicorp.com/trust/privacy"
+	},
+	{
+		"Company": "HCA Healthcare",
+		"Domain": "https://hcahealthcare.com",
+		"Privacy Policy": "https://hcahealthcare.com/legal/index.dot#privacy-policy"
+	},
+	{
+		"Company": "Henry Schein",
+		"Domain": "https://henryschein.com",
+		"Privacy Policy": "https://www.henryschein.com/us-en/Privacy.aspx"
+	},
+	{
+		"Company": "Heroku",
+		"Domain": "https://heroku.com",
+		"Privacy Policy": "https://www.heroku.com/policy/security"
+	},
+	{
+		"Company": "Hershey",
+		"Domain": "https://thehersheycompany.com",
+		"Privacy Policy": "https://www.thehersheycompany.com/en_us/home/privacy-policy.html"
+	},
+	{
+		"Company": "Hertz Global Holdings",
+		"Domain": "https://hertz.com",
+		"Privacy Policy": "https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp"
+	},
+	{
+		"Company": "Hess",
+		"Domain": "https://hess.com",
+		"Privacy Policy": "https://www.hess.com/utility-pages/privacy-policy"
+	},
+	{
+		"Company": "Hewlett Packard Enterprise",
+		"Domain": "https://hpe.com",
+		"Privacy Policy": "https://www.hpe.com/us/en/legal/privacy.html"
+	},
+	{
+		"Company": "HF Sinclair",
+		"Domain": "https://hfsinclair.com",
+		"Privacy Policy": "https://www.hfsinclair.com/privacy-statement/default.aspx"
+	},
+	{
+		"Company": "Hitachi",
+		"Domain": "https://hitachi.com",
+		"Privacy Policy": "https://www.hitachi.com/privacy-e/index.html"
+	},
+	{
+		"Company": "Home Depot",
+		"Domain": "https://homedepot.com",
+		"Privacy Policy": "https://www.homedepot.com/privacy"
+	},
+	{
+		"Company": "Honeywell",
+		"Domain": "https://honeywell.com",
+		"Privacy Policy": "https://www.honeywell.com/us/en/privacy-statement"
+	},
+	{
+		"Company": "Hootsuite",
+		"Domain": "https://hootsuite.com",
+		"Privacy Policy": "https://www.hootsuite.com/legal/privacy"
+	},
+	{
+		"Company": "Hopin",
+		"Domain": "https://hopin.com",
+		"Privacy Policy": "https://hopin.com/hopin-events/legal/data-and-privacy"
+	},
+	{
+		"Company": "Hormel Foods",
+		"Domain": "https://hormelfoods.com",
+		"Privacy Policy": "https://www.hormelfoods.com/privacy-policy/"
+	},
+	{
+		"Company": "Hotjar",
+		"Domain": "https://hotjar.com",
+		"Privacy Policy": "https://www.hotjar.com/legal/policies/privacy/"
+	},
+	{
+		"Company": "HP",
+		"Domain": "https://hp.com",
+		"Privacy Policy": "https://www.hp.com/us-en/privacy/privacy-central.html"
+	},
+	{
+		"Company": "Huawei",
+		"Domain": "https://huawei.com",
+		"Privacy Policy": "https://www.huawei.com/en/privacy-policy"
+	},
+	{
+		"Company": "HubSpot",
+		"Domain": "https://hubspot.com",
+		"Privacy Policy": "https://legal.hubspot.com/privacy-policy"
+	},
+	{
+		"Company": "Humana",
+		"Domain": "https://humana.com",
+		"Privacy Policy": "https://www.humana.com/legal/privacy-policy"
+	},
+	{
+		"Company": "Huntington Ingalls Industries",
+		"Domain": "https://hii.com",
+		"Privacy Policy": "https://hii.com/hii-web-privacy-statement/"
+	},
+	{
+		"Company": "Huntsman",
+		"Domain": "https://huntsman.com",
+		"Privacy Policy": "https://www.huntsman.com/privacy/online-privacy-notice"
+	},
+	{
+		"Company": "IBM",
+		"Domain": "https://ibm.com",
+		"Privacy Policy": "https://www.ibm.com/us-en/privacy"
+	},
+	{
+		"Company": "Illinois Tool Works",
+		"Domain": "https://itw.com",
+		"Privacy Policy": "https://www.itw.com/privacy-statement/"
+	},
+	{
+		"Company": "InfluxData",
+		"Domain": "https://influxdata.com",
+		"Privacy Policy": "https://www.influxdata.com/legal/privacy-policy/"
+	},
+	{
+		"Company": "Infoblox",
+		"Domain": "https://infoblox.com",
+		"Privacy Policy": "https://www.infoblox.com/company/legal/privacy-policy/"
+	},
+	{
+		"Company": "Infogram",
+		"Domain": "https://infogram.com",
+		"Privacy Policy": "https://infogram.com/privacy"
+	},
+	{
+		"Company": "Ingredion",
+		"Domain": "https://ingredion.com",
+		"Privacy Policy": "https://www.ingredion.com/na/en-us/legal/privacy-policy.html"
+	},
+	{
+		"Company": "Insight Enterprises",
+		"Domain": "https://insight.com",
+		"Privacy Policy": "https://www.insight.com/en_US/help/privacy-policy.html"
+	},
+	{
+		"Company": "Instructure",
+		"Domain": "https://instructure.com",
+		"Privacy Policy": "https://www.instructure.com/policies/product-privacy-policy"
+	},
+	{
+		"Company": "Intel",
+		"Domain": "https://intel.com",
+		"Privacy Policy": "https://www.intel.com/content/www/us/en/privacy/intel-privacy-notice.html"
+	},
+	{
+		"Company": "Intercom",
+		"Domain": "https://intercom.com",
+		"Privacy Policy": "https://www.intercom.com/legal/privacy"
+	},
+	{
+		"Company": "Intercontinental Exchange",
+		"Domain": "https://ice.com",
+		"Privacy Policy": "https://www.ice.com/privacy-policy"
+	},
+	{
+		"Company": "International Flavors & Fragrances",
+		"Domain": "https://iff.com",
+		"Privacy Policy": "https://www.iff.com/Privacy-Statement/"
+	},
+	{
+		"Company": "International Paper",
+		"Domain": "https://internationalpaper.com",
+		"Privacy Policy": "https://www.internationalpaper.com/privacy-policy"
+	},
+	{
+		"Company": "Interpublic Group",
+		"Domain": "https://interpublic.com",
+		"Privacy Policy": "https://www.interpublic.com/privacy-policy/"
+	},
+	{
+		"Company": "Intuit",
+		"Domain": "https://intuit.com",
+		"Privacy Policy": "https://www.intuit.com/privacy/"
+	},
+	{
+		"Company": "IQVIA Holdings",
+		"Domain": "https://iqvia.com",
+		"Privacy Policy": "https://www.iqvia.com/about-us/privacy"
+	},
+	{
+		"Company": "Issuu",
+		"Domain": "https://issuu.com",
+		"Privacy Policy": "https://issuu.com/legal/privacy"
+	},
+	{
+		"Company": "iThemes",
+		"Domain": "https://ithemes.com",
+		"Privacy Policy": "https://solidwp.com/privacy-policy/"
+	},
+	{
+		"Company": "Iubenda",
+		"Domain": "https://iubenda.com",
+		"Privacy Policy": "https://www.iubenda.com/en/help/463-generate-privacy-policy"
+	},
+	{
+		"Company": "Ivanti",
+		"Domain": "https://ivanti.com",
+		"Privacy Policy": "https://www.ivanti.com/company/legal/privacy-policy"
+	},
+	{
+		"Company": "J.B. Hunt Transport Services",
+		"Domain": "https://jbhunt.com",
+		"Privacy Policy": "https://www.jbhunt.com/privacy-policy"
+	},
+	{
+		"Company": "J.M. Smucker",
+		"Domain": "https://jmsmucker.com",
+		"Privacy Policy": "https://www.jmsmucker.com/privacy-policy"
+	},
+	{
+		"Company": "Jabil",
+		"Domain": "https://jabil.com",
+		"Privacy Policy": "https://www.jabil.com/about-us/the-jabil-code/privacy.html"
+	},
+	{
+		"Company": "Jackson Financial",
+		"Domain": "https://jackson.com",
+		"Privacy Policy": "https://www.jackson.com/legal-and-privacy.html"
+	},
+	{
+		"Company": "Jacobs Engineering Group",
+		"Domain": "https://jacobs.com",
+		"Privacy Policy": "https://www.jacobs.com/policies/privacy-policy"
+	},
+	{
+		"Company": "Jedok",
+		"Domain": "https://jedok.com",
+		"Privacy Policy": "https://jedok.com/privacy"
+	},
+	{
+		"Company": "Jefferies Financial Group",
+		"Domain": "https://jefferies.com",
+		"Privacy Policy": "https://www.jefferies.com/privacy-policy/"
+	},
+	{
+		"Company": "JetBrains",
+		"Domain": "https://jetbrains.com",
+		"Privacy Policy": "https://www.jetbrains.com/legal/docs/privacy/privacy/"
+	},
+	{
+		"Company": "JFrog",
+		"Domain": "https://jfrog.com",
+		"Privacy Policy": "https://jfrog.com/trust/privacy/"
+	},
+	{
+		"Company": "Jitsi",
+		"Domain": "https://jitsi.org",
+		"Privacy Policy": "https://jitsi.org/meet-jit-si-privacy/"
+	},
+	{
+		"Company": "Johnson & Johnson",
+		"Domain": "https://jnj.com",
+		"Privacy Policy": "https://www.jnj.com/corporate/privacy-policy"
+	},
+	{
+		"Company": "Johnson Controls",
+		"Domain": "https://johnsoncontrols.com",
+		"Privacy Policy": "https://www.johnsoncontrols.com/privacy-center"
+	},
+	{
+		"Company": "Jones Financial (Edward Jones)",
+		"Domain": "https://edwardjones.com",
+		"Privacy Policy": "https://www.edwardjones.com/us-en/privacy/online-privacy-policy"
+	},
+	{
+		"Company": "Jones Lang LaSalle",
+		"Domain": "https://jll.com",
+		"Privacy Policy": "https://www.us.jll.com/en/privacy-statement"
+	},
+	{
+		"Company": "Joomla",
+		"Domain": "https://joomla.org",
+		"Privacy Policy": "https://www.joomla.org/privacy-policy.html"
+	},
+	{
+		"Company": "JPMorgan Chase",
+		"Domain": "https://jpmorganchase.com",
+		"Privacy Policy": "https://www.jpmorgan.com/privacy"
+	},
+	{
+		"Company": "K15T",
+		"Domain": "https://k15t.com",
+		"Privacy Policy": "https://www.k15t.com/legal/privacy-statement"
+	},
+	{
+		"Company": "KBR",
+		"Domain": "https://kbr.com",
+		"Privacy Policy": "https://www.kbr.com/en/privacy-policy"
+	},
+	{
+		"Company": "Kellogg's",
+		"Domain": "https://kelloggs.com",
+		"Privacy Policy": "https://www.kelloggs.com/sea/privacy-policy.html"
+	},
+	{
+		"Company": "Keurig Dr Pepper",
+		"Domain": "https://keurigdrpepper.com",
+		"Privacy Policy": "https://keurigdrpepper.com/privacy-policy/"
+	},
+	{
+		"Company": "KeyCorp",
+		"Domain": "https://key.com",
+		"Privacy Policy": "https://www.key.com/about/security/privacy-security.html"
+	},
+	{
+		"Company": "Kickstarter",
+		"Domain": "https://kickstarter.com",
+		"Privacy Policy": "https://legal.kickstarter.com/policies?name=privacy-policy"
+	},
+	{
+		"Company": "Kimberly-Clark",
+		"Domain": "https://kimberly-clark.com",
+		"Privacy Policy": "https://www.kimberly-clark.com/en-us/global-privacy-policy"
+	},
+	{
+		"Company": "Kinder Morgan",
+		"Domain": "https://kindermorgan.com",
+		"Privacy Policy": "https://www.kindermorgan.com/Privacy-Policy"
+	},
+	{
+		"Company": "KKR",
+		"Domain": "https://kkr.com",
+		"Privacy Policy": "https://www.kkr.com/privacy-and-cookies"
+	},
+	{
+		"Company": "KLA",
+		"Domain": "https://kla.com",
+		"Privacy Policy": "https://www.kla.com/privacy-policy"
+	},
+	{
+		"Company": "Knime",
+		"Domain": "https://knime.com",
+		"Privacy Policy": "https://www.knime.com/privacy/"
+	},
+	{
+		"Company": "Kohl's",
+		"Domain": "https://kohls.com",
+		"Privacy Policy": "https://www.kohls.com/feature/privacy-policy.jsp"
+	},
+	{
+		"Company": "Kraft Heinz",
+		"Domain": "https://kraftheinzcompany.com",
+		"Privacy Policy": "https://www.kraftheinz.com/privacy-policy"
+	},
+	{
+		"Company": "Kroger",
+		"Domain": "https://kroger.com",
+		"Privacy Policy": "https://www.kroger.com/i/privacy-policy"
+	},
+	{
+		"Company": "L3Harris Technologies",
+		"Domain": "https://l3harris.com",
+		"Privacy Policy": "https://www.l3harris.com/privacy-policy"
+	},
+	{
+		"Company": "Laboratory Corp. of America",
+		"Domain": "https://labcorp.com",
+		"Privacy Policy": "https://www.labcorp.com/hipaa-privacy"
+	},
+	{
+		"Company": "Lam Research",
+		"Domain": "https://lamresearch.com",
+		"Privacy Policy": "https://www.lamresearch.com/privacy/"
+	},
+	{
+		"Company": "Land O'Lakes",
+		"Domain": "https://landolakesinc.com",
+		"Privacy Policy": "https://www.landolakesinc.com/Privacy-Policy"
+	},
+	{
+		"Company": "Landstar System",
+		"Domain": "https://landstar.com",
+		"Privacy Policy": "https://www.landstar.com/privacy-policy/"
+	},
+	{
+		"Company": "LastPass",
+		"Domain": "https://lastpass.com",
+		"Privacy Policy": "https://www.lastpass.com/legal-center/privacy-policy"
+	},
+	{
+		"Company": "LaunchDarkly",
+		"Domain": "https://launchdarkly.com",
+		"Privacy Policy": "https://launchdarkly.com/policies/privacy/"
+	},
+	{
+		"Company": "Lear",
+		"Domain": "https://lear.com",
+		"Privacy Policy": "https://www.lear.com/privacy-policy"
+	},
+	{
+		"Company": "Leidos Holdings",
+		"Domain": "https://leidos.com",
+		"Privacy Policy": "https://www.leidos.com/privacy"
+	},
+	{
+		"Company": "Lennar",
+		"Domain": "https://lennar.com",
+		"Privacy Policy": "https://www.lennar.com/privacypolicy"
+	},
+	{
+		"Company": "Lenovo",
+		"Domain": "https://lenovo.com",
+		"Privacy Policy": "https://www.lenovo.com/us/en/privacy/"
+	},
+	{
+		"Company": "Level",
+		"Domain": "https://level.com",
+		"Privacy Policy": "https://level.com/legal/privacy-policy"
+	},
+	{
+		"Company": "Lever",
+		"Domain": "https://lever.co",
+		"Privacy Policy": "https://www.lever.co/privacy-notice/"
+	},
+	{
+		"Company": "Lexmark",
+		"Domain": "https://lexmark.com",
+		"Privacy Policy": "https://www.lexmark.com/en_us/privacy-policy.html"
+	},
+	{
+		"Company": "Liberty Media",
+		"Domain": "https://libertymedia.com",
+		"Privacy Policy": "https://www.libertymedia.com/privacy-policy"
+	},
+	{
+		"Company": "Liberty Mutual Insurance Group",
+		"Domain": "https://libertymutual.com",
+		"Privacy Policy": "https://www.libertymutualgroup.com/about-lm/corporate-information/privacy-policy"
+	},
+	{
+		"Company": "LibreOffice",
+		"Domain": "https://libreoffice.org",
+		"Privacy Policy": "https://www.libreoffice.org/about-us/privacy/privacy-policy-en/"
+	},
+	{
+		"Company": "Libsyn",
+		"Domain": "https://libsyn.com",
+		"Privacy Policy": "https://libsyn.com/tos-policies/privacy-policy/"
+	},
+	{
+		"Company": "Lincoln National",
+		"Domain": "https://lfg.com",
+		"Privacy Policy": "https://www.lincolnfinancial.com/public/general/privacy"
+	},
+	{
+		"Company": "Link Assistant",
+		"Domain": "https://link-assistant.com",
+		"Privacy Policy": "https://www.link-assistant.com/privacy-policy.html"
+	},
+	{
+		"Company": "Linux Foundation",
+		"Domain": "https://linuxfoundation.org",
+		"Privacy Policy": "https://www.linuxfoundation.org/legal/privacy-policy"
+	},
+	{
+		"Company": "Liquid Web",
+		"Domain": "https://liquidweb.com",
+		"Privacy Policy": "https://www.liquidweb.com/about-us/policies/privacy-policy/"
+	},
+	{
+		"Company": "Lithia Motors",
+		"Domain": "https://lithia.com",
+		"Privacy Policy": "https://www.lithia.com/lithia-privacy.htm"
+	},
+	{
+		"Company": "LivePlan",
+		"Domain": "https://liveplan.com",
+		"Privacy Policy": "https://www.liveplan.com/policies/privacy-policy"
+	},
+	{
+		"Company": "LKQ",
+		"Domain": "https://lkqcorp.com",
+		"Privacy Policy": "https://www.lkqcorp.com/privacy/"
+	},
+	{
+		"Company": "Lockheed Martin",
+		"Domain": "https://lockheedmartin.com",
+		"Privacy Policy": "https://www.lockheedmartin.com/en-us/contact/disclaimer.html"
+	},
+	{
+		"Company": "Loews",
+		"Domain": "https://loews.com",
+		"Privacy Policy": "https://www.loewshotels.com/privacy-policy"
+	},
+	{
+		"Company": "Lowe's",
+		"Domain": "https://lowes.com",
+		"Privacy Policy": "https://www.lowes.com/l/about/privacy-and-security-statement"
+	},
+	{
+		"Company": "LPL Financial Holdings",
+		"Domain": "https://lpl.com",
+		"Privacy Policy": "https://www.lpl.com/disclosures/privacy-security/online-privacy-policy.html"
+	},
+	{
+		"Company": "Lumen Technologies",
+		"Domain": "https://lumen.com",
+		"Privacy Policy": "https://www.lumen.com/en-us/about/legal/privacy-notice.html"
+	},
+	{
+		"Company": "Macy's",
+		"Domain": "https://macys.com",
+		"Privacy Policy": "https://customerservice-macys.com/articles/highlights-of-macys-inc-notice-of-privacy-practices"
+	},
+	{
+		"Company": "Mailchimp",
+		"Domain": "https://mailchimp.com",
+		"Privacy Policy": "https://www.intuit.com/privacy/statement/"
+	},
+	{
+		"Company": "Mailjet",
+		"Domain": "https://mailjet.com",
+		"Privacy Policy": "https://www.mailjet.com/legal/privacy-policy/"
+	},
+	{
+		"Company": "ManpowerGroup",
+		"Domain": "https://manpowergroup.com",
+		"Privacy Policy": "https://www.manpowergroup.com/en/policies/privacy-policy"
+	},
+	{
+		"Company": "Marathon Petroleum",
+		"Domain": "https://marathonpetroleum.com",
+		"Privacy Policy": "https://www.marathonpetroleum.com/Privacy-Policy/"
+	},
+	{
+		"Company": "Markel",
+		"Domain": "https://markel.com",
+		"Privacy Policy": "https://www.markel.com/Privacy-Policy"
+	},
+	{
+		"Company": "Marketo",
+		"Domain": "https://marketo.com",
+		"Privacy Policy": "https://www.adobe.com/privacy.html"
+	},
+	{
+		"Company": "MarkLogic",
+		"Domain": "https://marklogic.com",
+		"Privacy Policy": "https://www.progress.com/legal/privacy-policy"
+	},
+	{
+		"Company": "Marriott International",
+		"Domain": "https://marriott.com",
+		"Privacy Policy": "https://www.marriott.com/about/privacy.mi"
+	},
+	{
+		"Company": "Marsh & McLennan",
+		"Domain": "https://marshmclennan.com",
+		"Privacy Policy": "https://www.marshmclennan.com/privacy-statement.html"
+	},
+	{
+		"Company": "Masco",
+		"Domain": "https://masco.com",
+		"Privacy Policy": "https://masco.com/privacy-policy/"
+	},
+	{
+		"Company": "Massachusetts Mutual Life Insurance",
+		"Domain": "https://massmutual.com",
+		"Privacy Policy": "https://www.massmutual.com/protecting-your-information/privacy-policy"
+	},
+	{
+		"Company": "MasTec",
+		"Domain": "https://mastec.com",
+		"Privacy Policy": "https://www.mastec.com/privacy/"
+	},
+	{
+		"Company": "Mastercard",
+		"Domain": "https://mastercard.com",
+		"Privacy Policy": "https://www.mastercard.us/en-us/vision/corp-responsibility/commitment-to-privacy/privacy.html"
+	},
+	{
+		"Company": "McDonald's",
+		"Domain": "https://mcdonalds.com",
+		"Privacy Policy": "https://www.mcdonalds.com/us/en-us/privacy.html"
+	},
+	{
+		"Company": "McKesson",
+		"Domain": "https://mckesson.com",
+		"Privacy Policy": "https://www.mckesson.com/Privacy-Notice/"
+	},
+	{
+		"Company": "MediaBrains",
+		"Domain": "https://mediabrains.com",
+		"Privacy Policy": "https://mediabrains.com/privacy/"
+	},
+	{
+		"Company": "Meetup",
+		"Domain": "https://meetup.com",
+		"Privacy Policy": "https://help.meetup.com/hc/en-us/articles/360044422391-Privacy-Policy/?urlkey=help&topic=help&__topic_subdomain=1"
+	},
+	{
+		"Company": "Meistertask",
+		"Domain": "https://meistertask.com",
+		"Privacy Policy": "https://www.meisterlabs.com/privacy"
+	},
+	{
+		"Company": "Mendix",
+		"Domain": "https://mendix.com",
+		"Privacy Policy": "https://www.mendix.com/legal/privacy/privacy-notice/"
+	},
+	{
+		"Company": "Merck",
+		"Domain": "https://merck.com",
+		"Privacy Policy": "https://www.msdprivacy.com/us/en/"
+	},
+	{
+		"Company": "Meta Platforms",
+		"Domain": "https://meta.com",
+		"Privacy Policy": "https://www.facebook.com/privacy"
+	},
+	{
+		"Company": "MetLife",
+		"Domain": "https://metlife.com",
+		"Privacy Policy": "https://www.metlife.com/about-us/privacy-policy/"
+	},
+	{
+		"Company": "MGM Resorts International",
+		"Domain": "https://mgmresorts.com",
+		"Privacy Policy": "https://www.mgmresorts.com/en/privacy-policy.html"
+	},
+	{
+		"Company": "Micro Focus",
+		"Domain": "https://microfocus.com",
+		"Privacy Policy": "https://www.opentext.com/about/privacys"
+	},
+	{
+		"Company": "Micron Technology",
+		"Domain": "https://micron.com",
+		"Privacy Policy": "https://www.micron.com/privacy/"
+	},
+	{
+		"Company": "Microsoft",
+		"Domain": "https://microsoft.com",
+		"Privacy Policy": "https://privacy.microsoft.com/"
+	},
+	{
+		"Company": "Microsoft Office",
+		"Domain": "https://office.com",
+		"Privacy Policy": "https://privacy.microsoft.com/en-us/privacystatement"
+	},
+	{
+		"Company": "MindMeister",
+		"Domain": "https://mindmeister.com",
+		"Privacy Policy": "https://www.meistertask.com/pages/privacy-us"
+	},
+	{
+		"Company": "Miro",
+		"Domain": "https://miro.com",
+		"Privacy Policy": "https://miro.com/legal/privacy-policy/"
+	},
+	{
+		"Company": "Mitel",
+		"Domain": "https://mitel.com",
+		"Privacy Policy": "https://www.mitel.com/legal/policies/privacy-policy"
+	},
+	{
+		"Company": "Mixpanel",
+		"Domain": "https://mixpanel.com",
+		"Privacy Policy": "https://mixpanel.com/legal/privacy-policy/"
+	},
+	{
+		"Company": "Mobiniti",
+		"Domain": "https://mobiniti.com",
+		"Privacy Policy": "https://www.mobiniti.com/privacy/"
+	},
+	{
+		"Company": "Moderna",
+		"Domain": "https://modernatx.com",
+		"Privacy Policy": "https://www.modernatx.com/privacy-statement"
+	},
+	{
+		"Company": "Mohawk Industries",
+		"Domain": "https://mohawkind.com",
+		"Privacy Policy": "https://mohawkind.com/privacy-policy.php"
+	},
+	{
+		"Company": "Molina Healthcare",
+		"Domain": "https://molinahealthcare.com",
+		"Privacy Policy": "https://www.molinahealthcare.com/members/common/en-US/terms_privacy.aspx"
+	},
+	{
+		"Company": "Molson Coors Beverage",
+		"Domain": "https://molsoncoors.com",
+		"Privacy Policy": "https://www.molsoncoors.com/privacy-policy"
+	},
+	{
+		"Company": "Monday.com",
+		"Domain": "https://monday.com",
+		"Privacy Policy": "https://monday.com/trustcenter/privacy"
+	},
+	{
+		"Company": "Mondelez International",
+		"Domain": "https://mondelezinternational.com",
+		"Privacy Policy": "https://www.mondelezinternational.com/privacy-policy/index.html"
+	},
+	{
+		"Company": "MongoDB",
+		"Domain": "https://mongodb.com",
+		"Privacy Policy": "https://www.mongodb.com/legal/privacy/privacy-policy"
+	},
+	{
+		"Company": "Morgan Stanley",
+		"Domain": "https://morganstanley.com",
+		"Privacy Policy": "https://www.morganstanley.com/disclaimers/us-privacy-policy-and-notice"
+	},
+	{
+		"Company": "Mosaic",
+		"Domain": "https://mosaicco.com",
+		"Privacy Policy": "https://mosaicco.com/privacy-policy"
+	},
+	{
+		"Company": "Motorola",
+		"Domain": "https://motorola.com",
+		"Privacy Policy": "https://www.motorola.com/us/legal/privacy-policy"
+	},
+	{
+		"Company": "Motorola Solutions",
+		"Domain": "https://motorolasolutions.com",
+		"Privacy Policy": "https://www.motorolasolutions.com/en_us/about/privacy-policy.html"
+	},
+	{
+		"Company": "Moxa",
+		"Domain": "https://moxa.com",
+		"Privacy Policy": "https://www.moxa.com/en/privacy-policy"
+	},
+	{
+		"Company": "Moz",
+		"Domain": "https://moz.com",
+		"Privacy Policy": "https://moz.com/privacy-policy"
+	},
+	{
+		"Company": "Mozilla",
+		"Domain": "https://mozilla.org",
+		"Privacy Policy": "https://www.mozilla.org/en-US/privacy/"
+	},
+	{
+		"Company": "Murphy USA",
+		"Domain": "https://murphyusa.com",
+		"Privacy Policy": "https://murphyusa.com/murphyusa/legal#privacy-a"
+	},
+	{
+		"Company": "Mutual of Omaha Insurance",
+		"Domain": "https://mutualofomaha.com",
+		"Privacy Policy": "https://www.mutualofomaha.com/legal-services"
+	},
+	{
+		"Company": "Namely",
+		"Domain": "https://namely.com",
+		"Privacy Policy": "https://www.namely.com/privacy/"
+	},
+	{
+		"Company": "NapoleonCat",
+		"Domain": "https://napoleoncat.com",
+		"Privacy Policy": "https://napoleoncat.com/privacy/"
+	},
+	{
+		"Company": "Nationwide",
+		"Domain": "https://nationwide.com",
+		"Privacy Policy": "https://www.nationwide.com/personal/privacy-security/"
+	},
+	{
+		"Company": "Neil Patel",
+		"Domain": "https://neilpatel.com",
+		"Privacy Policy": "https://neilpatel.com/privacy/"
+	},
+	{
+		"Company": "NetApp",
+		"Domain": "https://netapp.com",
+		"Privacy Policy": "https://www.netapp.com/company/legal/privacy-policy/"
+	},
+	{
+		"Company": "Netflix",
+		"Domain": "https://netflix.com",
+		"Privacy Policy": "https://help.netflix.com/legal/privacy"
+	},
+	{
+		"Company": "Netgate",
+		"Domain": "https://netgate.com",
+		"Privacy Policy": "https://www.netgate.com/company/privacy-policy"
+	},
+	{
+		"Company": "Netgear",
+		"Domain": "https://netgear.com",
+		"Privacy Policy": "https://www.netgear.com/about/privacy-policy/"
+	},
+	{
+		"Company": "Netlify",
+		"Domain": "https://netlify.com",
+		"Privacy Policy": "https://www.netlify.com/privacy/"
+	},
+	{
+		"Company": "Netskope",
+		"Domain": "https://netskope.com",
+		"Privacy Policy": "https://www.netskope.com/privacy-policy"
+	},
+	{
+		"Company": "New Relic",
+		"Domain": "https://newrelic.com",
+		"Privacy Policy": "https://newrelic.com/termsandconditions/privacy"
+	},
+	{
+		"Company": "New York Life Insurance",
+		"Domain": "https://newyorklife.com",
+		"Privacy Policy": "https://www.newyorklife.com/about/privacy-policy"
+	},
+	{
+		"Company": "Newell Brands",
+		"Domain": "https://newellbrands.com",
+		"Privacy Policy": "https://privacy.newellbrands.com/index"
+	},
+	{
+		"Company": "Newmont",
+		"Domain": "https://newmont.com",
+		"Privacy Policy": "https://www.newmont.com/privacy-statement/default.aspx"
+	},
+	{
+		"Company": "News Corp.",
+		"Domain": "https://newscorp.com",
+		"Privacy Policy": "https://newscorp.com/privacy-notice/"
+	},
+	{
+		"Company": "Nexcess",
+		"Domain": "https://nexcess.net",
+		"Privacy Policy": "https://www.nexcess.net/policies/privacy-policy/"
+	},
+	{
+		"Company": "NextEra Energy",
+		"Domain": "https://nexteraenergy.com",
+		"Privacy Policy": "https://www.nexteraenergy.com/privacy-policy.html"
+	},
+	{
+		"Company": "NextRoll",
+		"Domain": "https://nextroll.com",
+		"Privacy Policy": "https://www.nextroll.com/privacy"
+	},
+	{
+		"Company": "NGINX",
+		"Domain": "https://nginx.com",
+		"Privacy Policy": "https://www.f5.com/company/policies/privacy-compliance-and-practices"
+	},
+	{
+		"Company": "Nike",
+		"Domain": "https://nike.com",
+		"Privacy Policy": "https://agreementservice.svs.nike.com/rest/agreement?agreementType=privacyPolicy&uxId=com.nike.commerce.nikedotcom.web&country=US&language=en&requestType=redirect"
+	},
+	{
+		"Company": "Nordstrom",
+		"Domain": "https://nordstrom.com",
+		"Privacy Policy": "https://www.nordstrom.com/browse/customer-service/policy/privacy"
+	},
+	{
+		"Company": "Norfolk Southern",
+		"Domain": "https://nscorp.com",
+		"Privacy Policy": "https://www.norfolksouthern.com/en/privacy-policy"
+	},
+	{
+		"Company": "Northern Trust",
+		"Domain": "https://northerntrust.com",
+		"Privacy Policy": "https://www.northerntrust.com/united-states/privacy/north-america"
+	},
+	{
+		"Company": "Northrop Grumman",
+		"Domain": "https://northropgrumman.com",
+		"Privacy Policy": "https://www.northropgrumman.com/who-we-are/privacy-policy"
+	},
+	{
+		"Company": "Northwestern Mutual",
+		"Domain": "https://northwesternmutual.com",
+		"Privacy Policy": "https://www.northwesternmutual.com/privacy-notices/"
+	},
+	{
+		"Company": "Notion",
+		"Domain": "https://notion.so",
+		"Privacy Policy": "https://www.notion.so/help/category/security-and-privacy"
+	},
+	{
+		"Company": "NRG Energy",
+		"Domain": "https://nrg.com",
+		"Privacy Policy": "https://www.nrg.com/legal/privacy-rights-and-requests/privacy-policy.html"
+	},
+	{
+		"Company": "Nucor",
+		"Domain": "https://nucor.com",
+		"Privacy Policy": "https://nucor.com/privacy"
+	},
+	{
+		"Company": "Nutanix",
+		"Domain": "https://nutanix.com",
+		"Privacy Policy": "https://www.nutanix.com/legal/privacy-statement"
+	},
+	{
+		"Company": "Nvidia",
+		"Domain": "https://nvidia.com",
+		"Privacy Policy": "https://www.nvidia.com/en-us/about-nvidia/privacy-policy/"
+	},
+	{
+		"Company": "NVR",
+		"Domain": "https://nvrinc.com",
+		"Privacy Policy": "https://www.nvrinc.com/privacy-notice/"
+	},
+	{
+		"Company": "O-I Glass",
+		"Domain": "https://o-i.com",
+		"Privacy Policy": "https://www.o-i.com/legal/privacy/"
+	},
+	{
+		"Company": "O'Reilly Automotive",
+		"Domain": "https://oreillyauto.com",
+		"Privacy Policy": "https://www.oreillyauto.com/privacy"
+	},
+	{
+		"Company": "Occidental Petroleum",
+		"Domain": "https://oxy.com",
+		"Privacy Policy": "https://www.oxy.com/privacy-statement/"
+	},
+	{
+		"Company": "ODP",
+		"Domain": "https://officedepot.com",
+		"Privacy Policy": "https://www.officedepot.com/l/help/privacy-statement"
+	},
+	{
+		"Company": "Okta",
+		"Domain": "https://okta.com",
+		"Privacy Policy": "https://www.okta.com/privacy-policy/"
+	},
+	{
+		"Company": "Old Republic International",
+		"Domain": "https://oldrepublic.com",
+		"Privacy Policy": "https://www.oldrepublic.com/legal-and-privacy-notices"
+	},
+	{
+		"Company": "Olin",
+		"Domain": "https://olin.com",
+		"Privacy Policy": "https://olin.com/privacy/"
+	},
+	{
+		"Company": "Omnicom Group",
+		"Domain": "https://omnicomgroup.com",
+		"Privacy Policy": "https://www.omnicomgroup.com/privacy-notice/"
+	},
+	{
+		"Company": "ON Semiconductor",
+		"Domain": "https://onsemi.com",
+		"Privacy Policy": "https://www.onsemi.com/privacy"
+	},
+	{
+		"Company": "On24",
+		"Domain": "https://on24.com",
+		"Privacy Policy": "https://www.on24.com/privacy-policy/"
+	},
+	{
+		"Company": "Oneok",
+		"Domain": "https://oneok.com",
+		"Privacy Policy": "https://www.oneok.com/legal-and-privacy"
+	},
+	{
+		"Company": "OneTrust",
+		"Domain": "https://onetrust.com",
+		"Privacy Policy": "https://www.onetrust.com/privacy-notice/"
+	},
+	{
+		"Company": "OpenDesign",
+		"Domain": "https://opendesign.com",
+		"Privacy Policy": "https://www.opendesign.com/privacy"
+	},
+	{
+		"Company": "Opendoor Technologies",
+		"Domain": "https://opendoor.com",
+		"Privacy Policy": "https://www.opendoor.com/privacy"
+	},
+	{
+		"Company": "Openstack",
+		"Domain": "https://openstack.org",
+		"Privacy Policy": "https://www.openstack.org/blog/privacy-policy/"
+	},
+	{
+		"Company": "OpenVPN",
+		"Domain": "https://openvpn.com",
+		"Privacy Policy": "https://openvpn.net/privacy-policy/"
+	},
+	{
+		"Company": "OpenWRT",
+		"Domain": "https://openwrt.org",
+		"Privacy Policy": "https://forum.openwrt.org/privacy"
+	},
+	{
+		"Company": "Optimizely",
+		"Domain": "https://optimizely.com",
+		"Privacy Policy": "https://www.optimizely.com/legal/privacy-notice/"
+	},
+	{
+		"Company": "OptiMonster",
+		"Domain": "https://optinmonster.com",
+		"Privacy Policy": "https://optinmonster.com/privacy/"
+	},
+	{
+		"Company": "Oracle",
+		"Domain": "https://oracle.com",
+		"Privacy Policy": "https://www.oracle.com/legal/privacy/"
+	},
+	{
+		"Company": "Orange",
+		"Domain": "https://orange.com",
+		"Privacy Policy": "https://www.orange.com/en/privacy-policy"
+	},
+	{
+		"Company": "Oshkosh",
+		"Domain": "https://oshkoshcorp.com",
+		"Privacy Policy": "https://www.oshkoshcorp.com/privacy-policy"
+	},
+	{
+		"Company": "Otis Worldwide",
+		"Domain": "https://otis.com",
+		"Privacy Policy": "https://www.otis.com/en/us/privacy-policy/"
+	},
+	{
+		"Company": "Outreach",
+		"Domain": "https://outreach.io",
+		"Privacy Policy": "https://www.outreach.io/privacy-statement"
+	},
+	{
+		"Company": "OVH Cloud",
+		"Domain": "https://ovhcloud.com",
+		"Privacy Policy": "https://us.ovhcloud.com/legal/privacy-policy/"
+	},
+	{
+		"Company": "Ovintiv",
+		"Domain": "https://ovintiv.com",
+		"Privacy Policy": "https://www.ovintiv.com/privacy-policy/"
+	},
+	{
+		"Company": "Owens & Minor",
+		"Domain": "https://owens-minor.com",
+		"Privacy Policy": "https://www.owens-minor.com/privacy-policy/"
+	},
+	{
+		"Company": "Owens Corning",
+		"Domain": "https://owenscorning.com",
+		"Privacy Policy": "https://www.owenscorning.com/en-us/privacy-policy"
+	},
+	{
+		"Company": "Paccar",
+		"Domain": "https://paccar.com",
+		"Privacy Policy": "https://www.paccar.com/privacy/"
+	},
+	{
+		"Company": "Pacific Life",
+		"Domain": "https://pacificlife.com",
+		"Privacy Policy": "https://www.pacificlife.com/home/privacy-and-other-policies.html"
+	},
+	{
+		"Company": "Packaging Corp. of America",
+		"Domain": "https://packagingcorp.com",
+		"Privacy Policy": "https://www.packagingcorp.com/privacy-policy/"
+	},
+	{
+		"Company": "Packt",
+		"Domain": "https://packtpub.com",
+		"Privacy Policy": "https://www.packtpub.com/en-us/help/privacy-policy"
+	},
+	{
+		"Company": "PagerDuty",
+		"Domain": "https://pagerduty.com",
+		"Privacy Policy": "https://www.pagerduty.com/privacy-policy/"
+	},
+	{
+		"Company": "Palo Alto Networks",
+		"Domain": "https://paloaltonetworks.com",
+		"Privacy Policy": "https://www.paloaltonetworks.com/legal-notices/privacy"
+	},
+	{
+		"Company": "Paramount Global",
+		"Domain": "https://paramount.com",
+		"Privacy Policy": "https://privacy.paramount.com/en/policy"
+	},
+	{
+		"Company": "Parker-Hannifin",
+		"Domain": "https://parker.com",
+		"Privacy Policy": "https://www.parker.com/us/en/privacy-policies.html"
+	},
+	{
+		"Company": "Paychex",
+		"Domain": "https://paychex.com",
+		"Privacy Policy": "https://www.paychex.com/corporate/security/privacy"
+	},
+	{
+		"Company": "PayPal",
+		"Domain": "https://paypal.com",
+		"Privacy Policy": "https://www.paypal.com/us/legalhub/privacy-full"
+	},
+	{
+		"Company": "Penske Automotive Group",
+		"Domain": "https://penskeautomotive.com",
+		"Privacy Policy": "https://www.penskeautomotive.com/about/privacy"
+	},
+	{
+		"Company": "PepsiCo",
+		"Domain": "https://pepsi.com",
+		"Privacy Policy": "https://www.pepsico.com/legal/privacy"
+	},
+	{
+		"Company": "Performance Food Group",
+		"Domain": "https://pfgc.com",
+		"Privacy Policy": "https://pfgc.com/About/Privacy-Policy"
+	},
+	{
+		"Company": "Personio",
+		"Domain": "https://personio.com",
+		"Privacy Policy": "https://www.personio.com/privacy-policy/"
+	},
+	{
+		"Company": "Peter Kiewit Sons'",
+		"Domain": "https://kiewit.com",
+		"Privacy Policy": "https://www.kiewit.com/info/privacy-statement/"
+	},
+	{
+		"Company": "Pfizer",
+		"Domain": "https://pfizer.com",
+		"Privacy Policy": "https://www.pfizer.com/privacy"
+	},
+	{
+		"Company": "PG&E",
+		"Domain": "https://pgecorp.com",
+		"Privacy Policy": "https://www.pge.com/en/privacy-center/privacy-policy.html"
+	},
+	{
+		"Company": "Philip Morris International",
+		"Domain": "https://pmi.com",
+		"Privacy Policy": "https://www.pmi.org/privacy"
+	},
+	{
+		"Company": "Philips",
+		"Domain": "https://philips.com",
+		"Privacy Policy": "https://www.philips.com/a-w/privacy.html"
+	},
+	{
+		"Company": "Phillips 66",
+		"Domain": "https://phillips66.com",
+		"Privacy Policy": "https://www.phillips66.com/privacy-statement/"
+	},
+	{
+		"Company": "Pingdom",
+		"Domain": "https://pingdom.com",
+		"Privacy Policy": "https://www.solarwinds.com/legal/privacy"
+	},
+	{
+		"Company": "Pioneer Natural Resources",
+		"Domain": "https://pxd.com",
+		"Privacy Policy": "https://corporate.exxonmobil.com/global-legal-pages/privacy-policy"
+	},
+	{
+		"Company": "Pipeliner CRM",
+		"Domain": "https://pipelinersales.com",
+		"Privacy Policy": "https://www.pipelinersales.com/privacy/"
+	},
+	{
+		"Company": "Plains GP Holdings",
+		"Domain": "https://plains.com",
+		"Privacy Policy": "https://www.plains.com/legal-notices"
+	},
+	{
+		"Company": "PNC Financial Services Group",
+		"Domain": "https://pnc.com",
+		"Privacy Policy": "https://www.pnc.com/en/privacy-policy.html"
+	},
+	{
+		"Company": "Pocket",
+		"Domain": "https://getpocket.com",
+		"Privacy Policy": "https://getpocket.com/privacy"
+	},
+	{
+		"Company": "Polaris",
+		"Domain": "https://polaris.com",
+		"Privacy Policy": "https://www.polaris.com/en-us/privacy/"
+	},
+	{
+		"Company": "PowerToFly",
+		"Domain": "https://powertofly.com",
+		"Privacy Policy": "https://powertofly.com/about/privacy-policy"
+	},
+	{
+		"Company": "PPG Industries",
+		"Domain": "https://ppg.com",
+		"Privacy Policy": "https://www.ppg.com/about-ppg/en-US/legal-notices-and-privacy-policy"
+	},
+	{
+		"Company": "PPL",
+		"Domain": "https://pplweb.com",
+		"Privacy Policy": "https://www.pplweb.com/privacy/"
+	},
+	{
+		"Company": "Practical Ignition",
+		"Domain": "https://ignitionapp.com",
+		"Privacy Policy": "https://www.ignitionapp.com/privacy"
+	},
+	{
+		"Company": "Principal Financial",
+		"Domain": "https://principal.com",
+		"Privacy Policy": "https://www.principal.com/privacy-policies"
+	},
+	{
+		"Company": "Procter & Gamble",
+		"Domain": "https://pg.com",
+		"Privacy Policy": "https://privacypolicy.pg.com/en-US/"
+	},
+	{
+		"Company": "ProfitWell",
+		"Domain": "https://profitwell.com",
+		"Privacy Policy": "https://www.paddle.com/legal/privacy"
+	},
+	{
+		"Company": "Progress",
+		"Domain": "https://progress.com",
+		"Privacy Policy": "https://www.progress.com/legal/privacy-policy"
+	},
+	{
+		"Company": "Progressive",
+		"Domain": "https://progressive.com",
+		"Privacy Policy": "https://www.progressive.com/privacy/"
+	},
+	{
+		"Company": "Proofpoint",
+		"Domain": "https://proofpoint.com",
+		"Privacy Policy": "https://www.proofpoint.com/us/legal/privacy-policy"
+	},
+	{
+		"Company": "Prudential Financial",
+		"Domain": "https://prudential.com",
+		"Privacy Policy": "https://www.prudential.com/links/privacy-center"
+	},
+	{
+		"Company": "Public Service Enterprise Group",
+		"Domain": "https://pseg.com",
+		"Privacy Policy": "https://homeenergy.pseg.com/privacy-policy"
+	},
+	{
+		"Company": "Publix Super Markets",
+		"Domain": "https://publix.com",
+		"Privacy Policy": "http://purchasing.publix.com/privacy.aspx"
+	},
+	{
+		"Company": "PulteGroup",
+		"Domain": "https://pultegroup.com",
+		"Privacy Policy": "https://www.pulte.com/legal/privacy-policy"
+	},
+	{
+		"Company": "PVH",
+		"Domain": "https://pvh.com",
+		"Privacy Policy": "https://pvh.com/privacy-policy"
+	},
+	{
+		"Company": "Pythian",
+		"Domain": "https://pythian.com",
+		"Privacy Policy": "https://www.pythian.com/privacy"
+	},
+	{
+		"Company": "QNAP",
+		"Domain": "https://qnap.com",
+		"Privacy Policy": "https://www.qnap.com/en/legal/qnap-privacy-policy"
+	},
+	{
+		"Company": "Qualcomm",
+		"Domain": "https://qualcomm.com",
+		"Privacy Policy": "https://www.qualcomm.com/site/privacy"
+	},
+	{
+		"Company": "Qualtrics",
+		"Domain": "https://qualtrics.com",
+		"Privacy Policy": "https://www.qualtrics.com/privacy-statement/"
+	},
+	{
+		"Company": "Qualys",
+		"Domain": "https://qualys.com",
+		"Privacy Policy": "https://www.qualys.com/company/privacy/"
+	},
+	{
+		"Company": "Quanta Services",
+		"Domain": "https://quantaservices.com",
+		"Privacy Policy": "https://quantaservices.com/privacy-policy"
+	},
+	{
+		"Company": "Quest Diagnostics",
+		"Domain": "https://questdiagnostics.com",
+		"Privacy Policy": "https://www.questdiagnostics.com/our-company/privacy"
+	},
+	{
+		"Company": "Quick Sprout",
+		"Domain": "https://quicksprout.com",
+		"Privacy Policy": "https://www.quicksprout.com/privacy/"
+	},
+	{
+		"Company": "Quora",
+		"Domain": "https://quora.com",
+		"Privacy Policy": "https://help.quora.com/hc/en-us/sections/360000158766-Privacy?share=1"
+	},
+	{
+		"Company": "Qurate Retail",
+		"Domain": "https://qurateretailgroup.com",
+		"Privacy Policy": "https://www.qurateretail.com/privacy-policy"
+	},
+	{
+		"Company": "Radicas Software",
+		"Domain": "https://radicasoftware.com",
+		"Privacy Policy": "https://www.sw.siemens.com/en-US/privacy-policy/"
+	},
+	{
+		"Company": "Raymond James Financial",
+		"Domain": "https://raymondjames.com",
+		"Privacy Policy": "https://www.raymondjames.com/privacy-security-and-account-protection"
+	},
+	{
+		"Company": "Raytheon Technologies",
+		"Domain": "https://rtx.com",
+		"Privacy Policy": "https://www.rtx.com/privacy"
+	},
+	{
+		"Company": "Red Hat",
+		"Domain": "https://redhat.com",
+		"Privacy Policy": "https://www.redhat.com/en/about/privacy-policy"
+	},
+	{
+		"Company": "Redmine",
+		"Domain": "https://redmine.org",
+		"Privacy Policy": "https://www.redmine.org/projects/redmine/wiki/PrivacyPolicy"
+	},
+	{
+		"Company": "Regeneron Pharmaceuticals",
+		"Domain": "https://regeneron.com",
+		"Privacy Policy": "https://www.regeneron.com/privacy-notice"
+	},
+	{
+		"Company": "Regions Financial",
+		"Domain": "https://regions.com",
+		"Privacy Policy": "https://www.regions.com/about-regions/privacy-security"
+	},
+	{
+		"Company": "Reinsurance Group of America",
+		"Domain": "https://rgare.com",
+		"Privacy Policy": "https://www.rgare.com/our-company/responsibility/policies-and-governance-center/policy-and-rights/privacy-policy"
+	},
+	{
+		"Company": "Reliance Steel & Aluminum",
+		"Domain": "https://rsac.com",
+		"Privacy Policy": "https://www.rsaconference.com/privacy"
+	},
+	{
+		"Company": "Republic Services",
+		"Domain": "https://republicservices.com",
+		"Privacy Policy": "https://www.republicservices.com/privacy"
+	},
+	{
+		"Company": "RingCentral",
+		"Domain": "https://ringcentral.com",
+		"Privacy Policy": "https://www.ringcentral.com/legal/privacy-notice.html"
+	},
+	{
+		"Company": "Rite Aid",
+		"Domain": "https://riteaid.com",
+		"Privacy Policy": "https://www.riteaid.com/legal/privacy-policy"
+	},
+	{
+		"Company": "Robert Half International",
+		"Domain": "https://roberthalf.com",
+		"Privacy Policy": "https://www.roberthalf.com/us/en/privacy"
+	},
+	{
+		"Company": "Rocket Companies",
+		"Domain": "https://rocketcompanies.com",
+		"Privacy Policy": "https://www.rocketcompanies.com/privacy-policy/"
+	},
+	{
+		"Company": "Rockwell Automation",
+		"Domain": "https://rockwellautomation.com",
+		"Privacy Policy": "https://www.rockwellautomation.com/en-us/company/about-us/legal-notices/privacy-and-cookies-policy.html"
+	},
+	{
+		"Company": "Roper Technologies",
+		"Domain": "https://ropertech.com",
+		"Privacy Policy": "https://www.ropertech.com/privacy-policy/"
+	},
+	{
+		"Company": "Ross Stores",
+		"Domain": "https://rossstores.com",
+		"Privacy Policy": "https://www.rossstores.com/privacy-policy/"
+	},
+	{
+		"Company": "Ruckus Networks",
+		"Domain": "https://ruckusnetworks.com",
+		"Privacy Policy": "https://www.commscope.com/about-us/privacy-statement/"
+	},
+	{
+		"Company": "Ryder System",
+		"Domain": "https://ryder.com",
+		"Privacy Policy": "https://www.ryder.com/en-us/privacy-policy"
+	},
+	{
+		"Company": "S&P Global",
+		"Domain": "https://spglobal.com",
+		"Privacy Policy": "https://www.spglobal.com/en/privacy/privacy-policy-english"
+	},
+	{
+		"Company": "SageIntacct",
+		"Domain": "https://sageintacct.com",
+		"Privacy Policy": "https://www.sage.com/en-us/legal/privacy/"
+	},
+	{
+		"Company": "Salesforce",
+		"Domain": "https://salesforce.com",
+		"Privacy Policy": "https://www.salesforce.com/company/privacy/"
+	},
+	{
+		"Company": "Samsung",
+		"Domain": "https://samsungmobile.com",
+		"Privacy Policy": "https://www.samsung.com/us/account/privacy-policy/"
+	},
+	{
+		"Company": "Sanmina",
+		"Domain": "https://sanmina.com",
+		"Privacy Policy": "https://www.sanmina.com/privacy-policy/"
+	},
+	{
+		"Company": "SAP",
+		"Domain": "https://sap.com",
+		"Privacy Policy": "https://www.sap.com/corporate/en/legal/privacy.html"
+	},
+	{
+		"Company": "Schneider Electric",
+		"Domain": "https://se.com",
+		"Privacy Policy": "https://www.se.com/ww/en/about-us/legal/data-privacy.jsp"
+	},
+	{
+		"Company": "Science Applications International",
+		"Domain": "https://saic.com",
+		"Privacy Policy": "https://www.saic.com/privacy-statement"
+	},
+	{
+		"Company": "Seaboard",
+		"Domain": "https://seaboardcorp.com",
+		"Privacy Policy": "https://www.seaboardcorp.com/privacy-policy/"
+	},
+	{
+		"Company": "Securian Financial Group",
+		"Domain": "https://securian.com",
+		"Privacy Policy": "https://www.securian.com/privacy-notices.html"
+	},
+	{
+		"Company": "Sempra",
+		"Domain": "https://sempra.com",
+		"Privacy Policy": "https://www.sempra.com/privacy"
+	},
+	{
+		"Company": "Semrush",
+		"Domain": "https://semrush.com",
+		"Privacy Policy": "https://www.semrush.com/company/legal/privacy-policy/"
+	},
+	{
+		"Company": "Senhasegura",
+		"Domain": "https://senhasegura.com",
+		"Privacy Policy": "https://senhasegura.com/privacy-and-cookie-statement"
+	},
+	{
+		"Company": "ServiceNow",
+		"Domain": "https://servicenow.com",
+		"Privacy Policy": "https://www.servicenow.com/service-privacy.html"
+	},
+	{
+		"Company": "ShareASale",
+		"Domain": "https://shareasale.com",
+		"Privacy Policy": "https://www.shareasale.com/info/privacy-policy/"
+	},
+	{
+		"Company": "Sherwin-Williams",
+		"Domain": "https://sherwin-williams.com",
+		"Privacy Policy": "https://privacy-policy.sherwin-williams.com/"
+	},
+	{
+		"Company": "Shopify",
+		"Domain": "https://shopify.com",
+		"Privacy Policy": "https://www.shopify.com/legal/privacy"
+	},
+	{
+		"Company": "SHRM",
+		"Domain": "https://shrm.org",
+		"Privacy Policy": "https://www.shrm.org/about/privacy-policy"
+	},
+	{
+		"Company": "Siemens",
+		"Domain": "https://siemens.com",
+		"Privacy Policy": "https://www.sw.siemens.com/en-US/privacy-policy/"
+	},
+	{
+		"Company": "Sierra Wireless",
+		"Domain": "https://sierrawireless.com",
+		"Privacy Policy": "https://www.semtech.com/legal"
+	},
+	{
+		"Company": "Skype",
+		"Domain": "https://skype.com",
+		"Privacy Policy": "https://privacy.microsoft.com/en-us/privacystatement"
+	},
+	{
+		"Company": "Skyword",
+		"Domain": "https://skyward.com",
+		"Privacy Policy": "https://www.skyword.com/privacy-policy/"
+	},
+	{
+		"Company": "Slack",
+		"Domain": "https://slack.com",
+		"Privacy Policy": "https://slack.com/trust/privacy/privacy-policy"
+	},
+	{
+		"Company": "Smartdraw",
+		"Domain": "https://smartdraw.com",
+		"Privacy Policy": "https://www.smartdraw.com/about/privacy.htm"
+	},
+	{
+		"Company": "Smartsheet",
+		"Domain": "https://smartsheet.com",
+		"Privacy Policy": "https://www.smartsheet.com/legal/privacy"
+	},
+	{
+		"Company": "Snapchat",
+		"Domain": "https://snapchat.com",
+		"Privacy Policy": "https://values.snap.com/privacy/privacy-policy"
+	},
+	{
+		"Company": "Snowflake",
+		"Domain": "https://snowflake.com",
+		"Privacy Policy": "https://www.snowflake.com/privacy-policy/"
+	},
+	{
+		"Company": "Solarwinds",
+		"Domain": "https://solarwinds.com",
+		"Privacy Policy": "https://www.solarwinds.com/legal/privacy"
+	},
+	{
+		"Company": "Sonatype",
+		"Domain": "https://sonatype.com",
+		"Privacy Policy": "https://www.sonatype.com/privacy-policy"
+	},
+	{
+		"Company": "Sonic Automotive",
+		"Domain": "https://sonicautomotive.com",
+		"Privacy Policy": "https://www.sonicautomotive.com/privacy.htm"
+	},
+	{
+		"Company": "SonicWall",
+		"Domain": "https://sonicwall.com",
+		"Privacy Policy": "https://www.sonicwall.com/legal/privacy-statement/"
+	},
+	{
+		"Company": "Sophos",
+		"Domain": "https://sophos.com",
+		"Privacy Policy": "https://www.sophos.com/en-us/legal/sophos-group-privacy-notice"
+	},
+	{
+		"Company": "Southern",
+		"Domain": "https://southerncompany.com",
+		"Privacy Policy": "https://www.southerncompany.com/privacy-statement.html"
+	},
+	{
+		"Company": "Southwest Airlines",
+		"Domain": "https://southwest.com",
+		"Privacy Policy": "https://www.southwest.com/about-southwest/terms-and-conditions/privacy-policy/?clk=GFOOTER-BOTTOM-PRIVACY"
+	},
+	{
+		"Company": "Southwestern Energy",
+		"Domain": "https://swn.com",
+		"Privacy Policy": "https://www.swn.com/privacy-and-legal/"
+	},
+	{
+		"Company": "SpartanNash",
+		"Domain": "https://spartannash.com",
+		"Privacy Policy": "https://www.spartannash.com/privacy/"
+	},
+	{
+		"Company": "Spendesk",
+		"Domain": "https://spendesk.com",
+		"Privacy Policy": "https://www.spendesk.com/legals/privacy/"
+	},
+	{
+		"Company": "Splunk",
+		"Domain": "https://splunk.com",
+		"Privacy Policy": "https://www.splunk.com/en_us/legal/privacy-policy.html"
+	},
+	{
+		"Company": "Spot.io",
+		"Domain": "https://spot.io",
+		"Privacy Policy": "https://spot.io/security-policy/"
+	},
+	{
+		"Company": "Spring",
+		"Domain": "https://spring.io",
+		"Privacy Policy": "https://spring.io/security-policy/"
+	},
+	{
+		"Company": "Sprout Social",
+		"Domain": "https://sproutsocial.com",
+		"Privacy Policy": "https://sproutsocial.com/privacy-policy/"
+	},
+	{
+		"Company": "Squarespace",
+		"Domain": "https://squarespace.com",
+		"Privacy Policy": "https://www.squarespace.com/privacy/"
+	},
+	{
+		"Company": "Stanley Black & Decker",
+		"Domain": "https://stanleyblackanddecker.com",
+		"Privacy Policy": "https://www.stanleyblackanddecker.com/privacy-policy"
+	},
+	{
+		"Company": "Starbucks",
+		"Domain": "https://starbucks.com",
+		"Privacy Policy": "https://www.starbucks.com/terms/privacy-policy/"
+	},
+	{
+		"Company": "Starburst",
+		"Domain": "https://starburst.io",
+		"Privacy Policy": "https://www.starburst.io/privacy-policy/"
+	},
+	{
+		"Company": "Stat Counter",
+		"Domain": "https://statcounter.com",
+		"Privacy Policy": "https://statcounter.com/about/legal/"
+	},
+	{
+		"Company": "State Farm Insurance",
+		"Domain": "https://statefarm.com",
+		"Privacy Policy": "https://www.statefarm.com/customer-care/privacy-security"
+	},
+	{
+		"Company": "State Street",
+		"Domain": "https://statestreet.com",
+		"Privacy Policy": "https://www.statestreet.com/disclosures-and-disclaimers/privacy"
+	},
+	{
+		"Company": "Statista",
+		"Domain": "https://statista.com",
+		"Privacy Policy": "https://www.statista.com/imprint/#privacy"
+	},
+	{
+		"Company": "Steel Dynamics",
+		"Domain": "https://steeldynamics.com",
+		"Privacy Policy": "https://www.steeldynamics.com/privacy-policy/"
+	},
+	{
+		"Company": "StitchData",
+		"Domain": "https://stitchdata.com",
+		"Privacy Policy": "https://www.talend.com/privacy/"
+	},
+	{
+		"Company": "Stitcher",
+		"Domain": "https://stitcher.com",
+		"Privacy Policy": "https://www.stitcher.com/privacy"
+	},
+	{
+		"Company": "StoneX Group",
+		"Domain": "https://stonex.com",
+		"Privacy Policy": "https://primeservices.stonex.com/privacy-policy/"
+	},
+	{
+		"Company": "Stripe",
+		"Domain": "https://stripe.com",
+		"Privacy Policy": "https://stripe.com/privacy"
+	},
+	{
+		"Company": "Stryker",
+		"Domain": "https://stryker.com",
+		"Privacy Policy": "https://www.stryker.com/us/en/legal/privacy.html"
+	},
+	{
+		"Company": "SurveyMonkey",
+		"Domain": "https://surveymonkey.com",
+		"Privacy Policy": "https://www.surveymonkey.com/mp/legal/privacy/"
+	},
+	{
+		"Company": "Symfony",
+		"Domain": "https://symfony.com",
+		"Privacy Policy": "https://connect.symfony.com/privacy-policy"
+	},
+	{
+		"Company": "Syncfusion",
+		"Domain": "https://syncfusion.com",
+		"Privacy Policy": "https://www.syncfusion.com/privacy"
+	},
+	{
+		"Company": "Synchrony Financial",
+		"Domain": "https://synchrony.com",
+		"Privacy Policy": "https://www.synchrony.com/legal/privacy-policy"
+	},
+	{
+		"Company": "Synology",
+		"Domain": "https://synology.com",
+		"Privacy Policy": "https://www.synology.com/en-us/company/legal/privacy"
+	},
+	{
+		"Company": "Synopsys",
+		"Domain": "https://synopsys.com",
+		"Privacy Policy": "https://www.synopsys.com/company/legal/privacy-policy.html"
+	},
+	{
+		"Company": "Sysco",
+		"Domain": "https://sysco.com",
+		"Privacy Policy": "https://sysco.com/Privacy-Notice.html"
+	},
+	{
+		"Company": "T. Rowe Price",
+		"Domain": "https://troweprice.com",
+		"Privacy Policy": "https://www.troweprice.com/corporate/us/en/utility/privacy-policy.html"
+	},
+	{
+		"Company": "Tableau",
+		"Domain": "https://tableau.com",
+		"Privacy Policy": "https://www.salesforce.com/company/privacy/"
+	},
+	{
+		"Company": "Talend",
+		"Domain": "https://talend.com",
+		"Privacy Policy": "https://www.talend.com/privacy/"
+	},
+	{
+		"Company": "Target",
+		"Domain": "https://target.com",
+		"Privacy Policy": "https://www.target.com/c/target-privacy-policy/-/N-4sr7p"
+	},
+	{
+		"Company": "Taylor Morrison Home",
+		"Domain": "https://taylormorrison.com",
+		"Privacy Policy": "https://www.taylormorrison.com/privacy-policy"
+	},
+	{
+		"Company": "TD Synnex",
+		"Domain": "https://tdsynnex.com",
+		"Privacy Policy": "https://www.tdsynnex.com/na/us/privacy/"
+	},
+	{
+		"Company": "Teem (iOFFICE + SpaceIQ)",
+		"Domain": "https://teem.com",
+		"Privacy Policy": "https://teem-app.com/en/privacy-policy/"
+	},
+	{
+		"Company": "Tenable",
+		"Domain": "https://tenable.com",
+		"Privacy Policy": "https://www.tenable.com/privacy-policy"
+	},
+	{
+		"Company": "Tenet Healthcare",
+		"Domain": "https://tenethealth.com",
+		"Privacy Policy": "https://www.tenethealth.com/privacy"
+	},
+	{
+		"Company": "Tenneco",
+		"Domain": "https://tenneco.com",
+		"Privacy Policy": "https://www.tenneco.com/legal-notices/tenneco-privacy-statement"
+	},
+	{
+		"Company": "Tesla",
+		"Domain": "https://tesla.com",
+		"Privacy Policy": "https://www.tesla.com/legal/privacy"
+	},
+	{
+		"Company": "Texas Instruments",
+		"Domain": "https://ti.com",
+		"Privacy Policy": "https://www.ti.com/legal/terms-conditions/privacy-policy.html"
+	},
+	{
+		"Company": "Textron",
+		"Domain": "https://textron.com",
+		"Privacy Policy": "https://www.textron.com/Legal/Website-Privacy-Policy"
+	},
+	{
+		"Company": "Thermo Fisher Scientific",
+		"Domain": "https://thermofisher.com",
+		"Privacy Policy": "https://www.thermofisher.com/us/en/home/global/privacy-policy.html"
+	},
+	{
+		"Company": "Thinkific",
+		"Domain": "https://thinkific.com",
+		"Privacy Policy": "https://www.thinkific.com/privacy-policy/"
+	},
+	{
+		"Company": "Thomas",
+		"Domain": "https://thomasnet.com",
+		"Privacy Policy": "https://www.thomasnet.com/privacy.html"
+	},
+	{
+		"Company": "Thor Industries",
+		"Domain": "https://thorindustries.com",
+		"Privacy Policy": "https://www.thorindustries.com/privacy-policy"
+	},
+	{
+		"Company": "Thrivent Financial for Lutherans",
+		"Domain": "https://thrivent.com",
+		"Privacy Policy": "https://www.thrivent.com/privacy-and-security/privacy-policy"
+	},
+	{
+		"Company": "TIAA",
+		"Domain": "https://tiaa.org",
+		"Privacy Policy": "https://www.tiaa.org/public/support/privacy"
+	},
+	{
+		"Company": "Tibco",
+		"Domain": "https://tibco.com",
+		"Privacy Policy": "https://www.cloud.com/privacy-policy"
+	},
+	{
+		"Company": "Time Doctor",
+		"Domain": "https://timedoctor.com",
+		"Privacy Policy": "https://www.timedoctor.com/privacy_policy"
+	},
+	{
+		"Company": "TJX",
+		"Domain": "https://tjx.com",
+		"Privacy Policy": "https://www.tjx.com/privacy#"
+	},
+	{
+		"Company": "Todoist",
+		"Domain": "https://todoist.com",
+		"Privacy Policy": "https://doist.com/privacy"
+	},
+	{
+		"Company": "Toll Brothers",
+		"Domain": "https://tollbrothers.com",
+		"Privacy Policy": "https://www.tollbrothers.com/privacy"
+	},
+	{
+		"Company": "Tractor Supply",
+		"Domain": "https://tractorsupply.com",
+		"Privacy Policy": "https://www.tractorsupply.com/tsc/cms/policies-information/customer-solutions/privacy-policy"
+	},
+	{
+		"Company": "TravelCenters of America",
+		"Domain": "https://ta-petro.com",
+		"Privacy Policy": "https://www.ta-petro.com/privacy-policy/"
+	},
+	{
+		"Company": "Travelers",
+		"Domain": "https://travelers.com",
+		"Privacy Policy": "https://www.travelers.com/about-travelers/privacy-statements"
+	},
+	{
+		"Company": "Travelperk",
+		"Domain": "https://travelperk.com",
+		"Privacy Policy": "https://www.travelperk.com/legal/privacy-policy/"
+	},
+	{
+		"Company": "Trello",
+		"Domain": "https://trello.com",
+		"Privacy Policy": "https://www.atlassian.com/legal/privacy-policy#what-this-policy-covers"
+	},
+	{
+		"Company": "Trend Micro",
+		"Domain": "https://trendmicro.com",
+		"Privacy Policy": "https://www.trendmicro.com/en_us/about/trust-center/privacy/notice.html"
+	},
+	{
+		"Company": "Truist Financial",
+		"Domain": "https://truist.com",
+		"Privacy Policy": "https://www.truist.com/privacy"
+	},
+	{
+		"Company": "Trustwave",
+		"Domain": "https://trustwave.com",
+		"Privacy Policy": "https://www.trustwave.com/en-us/legal-documents/privacy-policy/"
+	},
+	{
+		"Company": "Twilio",
+		"Domain": "https://twilio.comen-us",
+		"Privacy Policy": "https://www.twilio.com/en-us/legal/privacy"
+	},
+	{
+		"Company": "Twitch",
+		"Domain": "https://twitch.tv",
+		"Privacy Policy": "https://www.twitch.tv/p/en/legal/privacy-notice/"
+	},
+	{
+		"Company": "Typo3",
+		"Domain": "https://typo3.org",
+		"Privacy Policy": "https://typo3.org/privacy-policy/"
+	},
+	{
+		"Company": "Tyson Foods",
+		"Domain": "https://tysonfoods.com",
+		"Privacy Policy": "https://www.tysonfoods.com/legal/privacy-policy"
+	},
+	{
+		"Company": "U.S. Bancorp",
+		"Domain": "https://usbank.com",
+		"Privacy Policy": "https://www.usbank.com/about-us-bank/privacy.html"
+	},
+	{
+		"Company": "Uber Technologies",
+		"Domain": "https://uber.com",
+		"Privacy Policy": "https://privacy.uber.com/center"
+	},
+	{
+		"Company": "Ubuntu",
+		"Domain": "https://ubuntu.com",
+		"Privacy Policy": "https://ubuntu.com/legal/data-privacy"
+	},
+	{
+		"Company": "UFP Industries",
+		"Domain": "https://ufpi.com",
+		"Privacy Policy": "https://www.ufpi.com/privacy-statement"
+	},
+	{
+		"Company": "UGI",
+		"Domain": "https://ugicorp.com",
+		"Privacy Policy": "https://www.ugicorp.com/privacy-policy"
+	},
+	{
+		"Company": "UIPath",
+		"Domain": "https://uipath.com",
+		"Privacy Policy": "https://www.uipath.com/legal/trust-and-security/privacy-policy"
+	},
+	{
+		"Company": "Ulta Beauty",
+		"Domain": "https://ulta.com",
+		"Privacy Policy": "https://www.ulta.com/company/privacy"
+	},
+	{
+		"Company": "Unbounce",
+		"Domain": "https://unbounce.com",
+		"Privacy Policy": "https://unbounce.com/privacy/"
+	},
+	{
+		"Company": "Unify",
+		"Domain": "https://unify.com",
+		"Privacy Policy": "https://unify.com/en/privacy-policy"
+	},
+	{
+		"Company": "Union Pacific",
+		"Domain": "https://up.com",
+		"Privacy Policy": "https://www.up.com/aboutup/corporate_info/privacy/index.htm"
+	},
+	{
+		"Company": "United Airlines Holdings",
+		"Domain": "https://united.com",
+		"Privacy Policy": "https://www.united.com/en/us/fly/customer-data-privacy-policy.html"
+	},
+	{
+		"Company": "United Natural Foods",
+		"Domain": "https://unfi.com",
+		"Privacy Policy": "https://www.unfi.com/privacy"
+	},
+	{
+		"Company": "United Parcel Service",
+		"Domain": "https://ups.com",
+		"Privacy Policy": "https://www.ups.com/us/en/support/shipping-support/legal-terms-conditions/privacy-notice.page"
+	},
+	{
+		"Company": "United Rentals",
+		"Domain": "https://unitedrentals.com",
+		"Privacy Policy": "https://www.unitedrentals.com/legal/privacy-policy"
+	},
+	{
+		"Company": "United States Steel",
+		"Domain": "https://ussteel.com",
+		"Privacy Policy": "https://investors.ussteel.com/privacy-policy"
+	},
+	{
+		"Company": "UnitedHealth Group",
+		"Domain": "https://unitedhealthgroup.com",
+		"Privacy Policy": "https://www.unitedhealthgroup.com/privacy.html"
+	},
+	{
+		"Company": "Univar Solutions",
+		"Domain": "https://univarsolutions.com",
+		"Privacy Policy": "https://www.univarsolutions.com/privacy-policy"
+	},
+	{
+		"Company": "Universal Health Services",
+		"Domain": "https://uhs.com",
+		"Privacy Policy": "https://uhs.com/wp-content/uploads/2022/05/Privacy_30.0_Online_Privacy_Policy_Final_4_28_2022.pdf"
+	},
+	{
+		"Company": "Unum Group",
+		"Domain": "https://unum.com",
+		"Privacy Policy": "https://www.unum.com/Privacy https://www.unum.la/privacy-policy"
+	},
+	{
+		"Company": "Upwork",
+		"Domain": "https://upwork.com",
+		"Privacy Policy": "https://www.upwork.com/trust-and-safety/security/"
+	},
+	{
+		"Company": "US Foods Holding",
+		"Domain": "https://usfoods.com",
+		"Privacy Policy": "https://www.usfoods.com/policies/privacypolicy.html"
+	},
+	{
+		"Company": "USAA",
+		"Domain": "https://usaa.com",
+		"Privacy Policy": "https://www.usaa.com/privacy"
+	},
+	{
+		"Company": "Valero Energy",
+		"Domain": "https://valero.com",
+		"Privacy Policy": "https://www.valero.com/privacy-statement"
+	},
+	{
+		"Company": "Vandyke",
+		"Domain": "https://vandyke.com",
+		"Privacy Policy": "https://www.vandyke.com/privacy.html"
+	},
+	{
+		"Company": "Vantage Circle",
+		"Domain": "https://vantagecircle.com",
+		"Privacy Policy": "https://www.vantagecircle.com/privacy-policy/"
+	},
+	{
+		"Company": "Veeam",
+		"Domain": "https://veeam.com",
+		"Privacy Policy": "https://www.veeam.com/privacy-notice.html"
+	},
+	{
+		"Company": "VentureBeat",
+		"Domain": "https://venturebeat.com",
+		"Privacy Policy": "https://venturebeat.com/privacy-policy/"
+	},
+	{
+		"Company": "Veritiv",
+		"Domain": "https://veritivcorp.com",
+		"Privacy Policy": "https://www.veritiv.com/privacy-policy"
+	},
+	{
+		"Company": "Verizon Communications",
+		"Domain": "https://verizon.com",
+		"Privacy Policy": "https://www.verizon.com/about/privacy/"
+	},
+	{
+		"Company": "Vertex Pharmaceuticals",
+		"Domain": "https://vrtx.com",
+		"Privacy Policy": "https://www.vrtx.com/international-privacy/"
+	},
+	{
+		"Company": "VF Corp.",
+		"Domain": "https://vfc.com",
+		"Privacy Policy": "https://www.vfc.com/privacy-policy"
+	},
+	{
+		"Company": "Viatris",
+		"Domain": "https://viatris.com",
+		"Privacy Policy": "https://www.viatris.com/en/Viatris-Privacy-Notice"
+	},
+	{
+		"Company": "Victoria's Secret",
+		"Domain": "https://victoriassecretandco.com",
+		"Privacy Policy": "https://www.victoriassecretandco.com/our-company/associates/associate-privacy-policies"
+	},
+	{
+		"Company": "Vimeo",
+		"Domain": "https://vimeo.com",
+		"Privacy Policy": "https://vimeo.com/privacy"
+	},
+	{
+		"Company": "Visa",
+		"Domain": "https://visa.com",
+		"Privacy Policy": "https://usa.visa.com/legal/privacy-policy.html"
+	},
+	{
+		"Company": "Vistra",
+		"Domain": "https://vistracorp.com",
+		"Privacy Policy": "https://vistracorp.com/privacy-policy/"
+	},
+	{
+		"Company": "VK",
+		"Domain": "https://vk.com",
+		"Privacy Policy": "https://vk.com/privacy"
+	},
+	{
+		"Company": "VMware",
+		"Domain": "https://vmware.com",
+		"Privacy Policy": "https://www.vmware.com/products/trust-center/privacy.html"
+	},
+	{
+		"Company": "W.R. Berkley",
+		"Domain": "https://berkley.com",
+		"Privacy Policy": "https://www.berkley.com/privacy"
+	},
+	{
+		"Company": "W.W. Grainger",
+		"Domain": "https://grainger.com",
+		"Privacy Policy": "https://www.grainger.com/content/mc/policies/privacy-policy"
+	},
+	{
+		"Company": "Walgreens Boots Alliance",
+		"Domain": "https://walgreens.com",
+		"Privacy Policy": "https://www.walgreensbootsalliance.com/online-privacy-and-security"
+	},
+	{
+		"Company": "Walmart",
+		"Domain": "https://walmart.com",
+		"Privacy Policy": "https://corporate.walmart.com/privacy-security/walmart-privacy-notice"
+	},
+	{
+		"Company": "Walt Disney",
+		"Domain": "https://disney.com",
+		"Privacy Policy": "https://privacy.thewaltdisneycompany.com/en/"
+	},
+	{
+		"Company": "Warner Bros. Discovery",
+		"Domain": "https://wbd.com",
+		"Privacy Policy": "https://wbd.com/privacy-notice/"
+	},
+	{
+		"Company": "Waste Management",
+		"Domain": "https://wm.com",
+		"Privacy Policy": "https://www.wm.com/us/en/privacy"
+	},
+	{
+		"Company": "Watchguard",
+		"Domain": "https://watchguard.com",
+		"Privacy Policy": "https://www.watchguard.com/wgrd-trust-center/privacy-policy"
+	},
+	{
+		"Company": "Wayfair",
+		"Domain": "https://wayfair.com",
+		"Privacy Policy": "https://www.wayfair.com/careers/privacy"
+	},
+	{
+		"Company": "Webflow",
+		"Domain": "https://webflow.com",
+		"Privacy Policy": "https://webflow.com/legal/privacy"
+	},
+	{
+		"Company": "WEC Energy Group",
+		"Domain": "https://wecenergygroup.com",
+		"Privacy Policy": "https://www.wecenergygroup.com/home/privacy-policy.htm"
+	},
+	{
+		"Company": "Wells Fargo",
+		"Domain": "https://wellsfargo.com",
+		"Privacy Policy": "https://www.wellsfargo.com/privacy-security/"
+	},
+	{
+		"Company": "WESCO International",
+		"Domain": "https://wesco.com",
+		"Privacy Policy": "https://www.wesco.com/us/en/policies/privacy-policy.html"
+	},
+	{
+		"Company": "Western & Southern Financial Group",
+		"Domain": "https://westernsouthern.com",
+		"Privacy Policy": "https://www.westernsouthern.com/privacy-policy"
+	},
+	{
+		"Company": "Western Digital",
+		"Domain": "https://westerndigital.com",
+		"Privacy Policy": "https://www.westerndigital.com/legal/privacy-statement"
+	},
+	{
+		"Company": "Westinghouse Air Brake Technologies",
+		"Domain": "https://wabteccorp.com",
+		"Privacy Policy": "https://www.wabteccorp.com/privacy-policy"
+	},
+	{
+		"Company": "Westlake",
+		"Domain": "https://westlake.com",
+		"Privacy Policy": "https://www.westlake.com/privacy-policy"
+	},
+	{
+		"Company": "WestRock",
+		"Domain": "https://westrock.com",
+		"Privacy Policy": "https://www.westrock.com/w/privacy-policy"
+	},
+	{
+		"Company": "Weyerhaeuser",
+		"Domain": "https://weyerhaeuser.com",
+		"Privacy Policy": "https://www.weyerhaeuser.com/privacy/privacy-policy/"
+	},
+	{
+		"Company": "WhatsApp",
+		"Domain": "https://whatsapp.com",
+		"Privacy Policy": "https://www.whatsapp.com/legal/privacy-policy?lang=en"
+	},
+	{
+		"Company": "Whirlpool",
+		"Domain": "https://whirlpoolcorp.com",
+		"Privacy Policy": "https://www.whirlpoolcorp.com/privacy-policy/"
+	},
+	{
+		"Company": "Wibu",
+		"Domain": "https://wibu.com",
+		"Privacy Policy": "https://www.wibu.com/us/privacy.html"
+	},
+	{
+		"Company": "Williams",
+		"Domain": "https://williams.com",
+		"Privacy Policy": "https://www.williams.com/privacy-policy/"
+	},
+	{
+		"Company": "Williams-Sonoma",
+		"Domain": "https://williams-sonomainc.com",
+		"Privacy Policy": "http://www.williams-sonomainc.com/privacy/"
+	},
+	{
+		"Company": "Wireshark",
+		"Domain": "https://wireshark.org",
+		"Privacy Policy": "https://ask.wireshark.org/privacy/"
+	},
+	{
+		"Company": "WithSecure",
+		"Domain": "https://withsecure.com",
+		"Privacy Policy": "https://www.withsecure.com/en/about-us/legal/privacy"
+	},
+	{
+		"Company": "Wix",
+		"Domain": "https://wix.com",
+		"Privacy Policy": "https://support.wix.com/en/article/wixs-privacy-policy"
+	},
+	{
+		"Company": "Wondershare",
+		"Domain": "https://wondershare.com",
+		"Privacy Policy": "https://www.wondershare.com/privacy.html"
+	},
+	{
+		"Company": "WooCommerce",
+		"Domain": "https://woocommerce.com",
+		"Privacy Policy": "https://woocommerce.com/document/marketplace-privacy/"
+	},
+	{
+		"Company": "Wordstream",
+		"Domain": "https://wordstream.com",
+		"Privacy Policy": "https://www.wordstream.com/privacy-policy"
+	},
+	{
+		"Company": "Workable",
+		"Domain": "https://workable.com",
+		"Privacy Policy": "https://www.workable.com/privacy"
+	},
+	{
+		"Company": "Workday",
+		"Domain": "https://workday.com",
+		"Privacy Policy": "https://www.workday.com/en-us/privacy.html"
+	},
+	{
+		"Company": "World Fuel Services",
+		"Domain": "https://wfscorp.com",
+		"Privacy Policy": "https://legacy.wfscorp.com/en/privacy-center"
+	},
+	{
+		"Company": "WPEngine",
+		"Domain": "https://wpengine.com",
+		"Privacy Policy": "https://wpengine.com/legal/privacy/"
+	},
+	{
+		"Company": "WPForms",
+		"Domain": "https://wpforms.com",
+		"Privacy Policy": "https://wpforms.com/privacy-policy/"
+	},
+	{
+		"Company": "Wrike",
+		"Domain": "https://wrike.com",
+		"Privacy Policy": "https://www.wrike.com/security/privacy/"
+	},
+	{
+		"Company": "WSO2",
+		"Domain": "https://wso2.com",
+		"Privacy Policy": "https://wso2.com/privacy-policy/"
+	},
+	{
+		"Company": "Xcel Energy",
+		"Domain": "https://xcelenergy.com",
+		"Privacy Policy": "https://my.xcelenergy.com/s/privacy"
+	},
+	{
+		"Company": "Xen Project",
+		"Domain": "https://xen.org",
+		"Privacy Policy": "https://www.linuxfoundation.org/legal/privacy-policy"
+	},
+	{
+		"Company": "Xero",
+		"Domain": "https://xero.com",
+		"Privacy Policy": "https://www.xero.com/us/legal/privacy/"
+	},
+	{
+		"Company": "XPO Logistics",
+		"Domain": "https://xpo.com",
+		"Privacy Policy": "https://www.xpo.com/privacy-policy/"
+	},
+	{
+		"Company": "Xylem",
+		"Domain": "https://xylem.com",
+		"Privacy Policy": "https://www.xylem.com/en-us/support/privacy/"
+	},
+	{
+		"Company": "Yelp",
+		"Domain": "https://yelp.com",
+		"Privacy Policy": "https://terms.yelp.com/privacy/en_us/20200101_en_us/"
+	},
+	{
+		"Company": "Yoast",
+		"Domain": "https://yoast.com",
+		"Privacy Policy": "https://yoast.com/privacy-notice/"
+	},
+	{
+		"Company": "Yubico",
+		"Domain": "https://yubico.com",
+		"Privacy Policy": "https://www.yubico.com/support/terms-conditions/privacy-notice/"
+	},
+	{
+		"Company": "Yugabyte",
+		"Domain": "https://yugabyte.com",
+		"Privacy Policy": "https://www.yugabyte.com/privacy-policy/"
+	},
+	{
+		"Company": "Yum Brands",
+		"Domain": "https://yum.com",
+		"Privacy Policy": "https://www.yum.com/wps/portal/yumbrands/Yumbrands/footer-pages/privacy-policy"
+	},
+	{
+		"Company": "Zabbix",
+		"Domain": "https://zabbix.com",
+		"Privacy Policy": "https://www.zabbix.com/privacy_policy"
+	},
+	{
+		"Company": "Zapier",
+		"Domain": "https://zapier.com",
+		"Privacy Policy": "https://zapier.com/legal/data-privacy"
+	},
+	{
+		"Company": "Zendesk",
+		"Domain": "https://zendesk.com",
+		"Privacy Policy": "https://www.zendesk.com/company/agreements-and-terms/privacy-notice/"
+	},
+	{
+		"Company": "Zillow Group",
+		"Domain": "https://zillow.com",
+		"Privacy Policy": "https://www.zillowgroup.com/zg-privacy-policy/"
+	},
+	{
+		"Company": "Zimbra",
+		"Domain": "https://zimbra.com",
+		"Privacy Policy": "https://synacor.com/privacy-policy"
+	},
+	{
+		"Company": "Zimmer Biomet Holdings",
+		"Domain": "https://zimmerbiomet.com",
+		"Privacy Policy": "https://www.zimmerbiomet.com/en/corporate/privacy-notice.html"
+	},
+	{
+		"Company": "Zoetis",
+		"Domain": "https://zoetis.com",
+		"Privacy Policy": "https://www.zoetis.com/privacy-policy"
+	},
+	{
+		"Company": "Zoho",
+		"Domain": "https://zoho.com",
+		"Privacy Policy": "https://www.zoho.com/privacy/global-revisions.html"
+	},
+	{
+		"Company": "Zoom",
+		"Domain": "https://zoom.us",
+		"Privacy Policy": "https://explore.zoom.us/en/privacy/"
+	},
+	{
+		"Company": "Zscaler",
+		"Domain": "https://zscaler.com",
+		"Privacy Policy": "https://www.zscaler.com/privacy/company-privacy-policy"
+	},
+	{
+		"Company": "Zuora",
+		"Domain": "https://zuora.com",
+		"Privacy Policy": "https://www.zuora.com/privacy-statement/"
+	},
+	{
+		"Company": "Zyxel",
+		"Domain": "https://zyxel.com",
+		"Privacy Policy": "https://www.zyxel.com/us/en-us/privacy-policy"
+	}
 ]
